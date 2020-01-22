@@ -1,0 +1,189 @@
+ProductID,ProductName,IsActive
+1,Handheld,true
+2,Laptop/Desktop,true
+3,Wearables,true
+4,Home and Accessories,true
+5,Product,true
+6,Royalty,true
+7,R & D,true
+8,Manufacturing,true
+9,Collaboration,true
+10,Hardware & Networking Equipment,true
+11,Advertising/Media/Entertainment,true
+12,Data Licensing,true
+13,Cloud Computing/SAAS/PAAS/IAAS,true
+14,Merchandise,true
+15,Morning Food & Snacks,true
+16,Meal/Food service,true
+17,Frozen,true
+18,Beverages,true
+19,Pet,true
+20,Nutrition and Health Supplements,true
+21,Milk and Related Products,true
+22,Corporate/Restructuring,true
+23,Floaters,true
+24,Jack-ups,true
+25,Total Drilling Revenue,true
+26,Crude Oil/Condensate,true
+27,Natural gas liquids,true
+28,Total Liquids,true
+29,Natural gas,true
+30,Refining,true
+31,Water Handling and Treatment,true
+32,Renewable Energy,true
+33,Well Services,true
+34,Technical Services,true
+35,Contract Drilling,true
+36,Gathering and Processing,true
+37,Storage and transportation,true
+38,"Gathering, Processing and transportation",true
+39,"Marketing, supply and logistics",true
+40,Lease operating expenses,true
+41,Gathering and transportation expenses,true
+42,Production taxes,true
+43,Exploration,true
+44,"Depreciation, depletion, amortization and accretion expense",true
+45,General and administrative expense,true
+46,Other operating expenses,true
+47,"Oral, Personal and Home Care",true
+48,Gathering and Processing,true
+49,Storage and transportation,true
+50,"Gathering, Processing and transportation",true
+51,"Marketing, supply and logistics",true
+52,Sale of Purchased Oil and Gas,true
+53,Plumbing,true
+54,Decorative architectural products,true
+55,Cabinetry products,true
+56,"Windows,Door and Securities",true
+57,Paints and coatings,true
+58,Tools and equipment,true
+59,Ceramic,true
+60,Flooring,true
+61,Corporate/Intersegment,true
+62,Rental & Lease,true
+63,Fuel Sales,true
+64,Maintenance & Other,true
+65,Road Transportation,true
+66,Rail Intermodal Transportation,true
+67,Ocean & Air Cargo Carriers,true
+68,Logistics,true
+69,Owned,true
+70,Contracted or Brokered,true
+71,Machinery & Equipment,true
+72,Residential,true
+73,Commercial,true
+74,Industrials,true
+75,Aggregates,true
+76,Asphalt,true
+77,Concrete,true
+78,Calcium,true
+79,Cement,true
+80,Freight,true
+81,Interest income on loans,true
+82,Interest income on  Debt securities,true
+83,Interest income on investments,true
+84,Interest income on Trading account,true
+85,Interest expense on loan,true
+86,Interest expense on deposits,true
+87,Interest expense on trading account,true
+88,Credit/bank card business,true
+89,Service charges on deposit accounts,true
+90,Trust and custodian services,true
+91,Currency exchange,true
+92,Net (loss)/gain on FI designated at FV,true
+93,Gains(Losses) on derivative,true
+94,Net gain on other financial assets(Amortised Cost),true
+95,"Loan/credit commissions, commitments",true
+96,Investment Income,true
+97,Total staff cost & Professional Fees,true
+98,Administrative Expenses,true
+99,Premises and equipment expenses,true
+100,Insurance/Provisions,true
+101,Total Home and office Product,true
+104,Domestic New vehicle,true
+105,Import New vehicle,true
+106,Luxury New vehicle,true
+107,New vehicle Sales,true
+110,Domestic Used vehicle retail,true
+111,Import Used vehicle retail,true
+112,Luxury Used vehicle retail,true
+113,Used vehicle retail Sales,true
+116,Domestic Used vehicle wholesale,true
+117,Import Used vehicle wholesale,true
+118,Luxury Used vehicle wholesale,true
+119,Used vehicle wholesale Sales,true
+122,Domestic Used vehicle,true
+123,Import Used vehicle,true
+124,Luxury Used vehicle,true
+125,Total Used vehicle Sales,true
+128,Total Domestic vehicles Sales,true
+129,Total Import vehicles Sales,true
+130,Total Luxury vehicles Sales,true
+131,Total vehicles Sales,true
+134,Domestic Parts and service sales,true
+135,Import Parts and service sales,true
+136,Luxury Parts and service sales,true
+137,Parts and service sales,true
+140,Domestic Finance and Insurance,true
+141,Import Finance and Insurance,true
+142,Luxury Finance and Insurance,true
+143,Total Finance and Insurance,true
+144,Fuel Revenue,true
+145,Non-fuel Revenue,true
+146,Total Retail Sales,true
+147,Electronic Products,true
+148,Safety systems Products,true
+149,Equipments,true
+150,Total Automotive,true
+151,Carbon steel,true
+152,Aluminum,true
+153,Stainless steel,true
+154,Alloy,true
+155,Toll processing and logistics,true
+156,Automotive Equipments/Accessories,true
+157,Sensors & Automation,true
+158,Safety systems Products,true
+159,Engine & Power,true
+160,Industrial Equipment,true
+161,Aerospace & defense,true
+162,"Energy, Oil and Gas",true
+163,Constructions,true
+164,Agriculture,true
+165,Health & Science,true
+166,Communications & IT,true
+167,Passenger Revenue,true
+168,Cargo Revenue,true
+169,Finance Services,true
+170,Industrial Gases,true
+171,Materials Technologies,true
+172,Energy from waste,true
+173,Gross premiums written,true
+174,Change in gross unearned premiums,true
+175,Gross premiums earned,true
+176,Ceded premiums,true
+177,Net realized (losses) gains,true
+178,Amortization of deferred gain on business sold through reinsurance,true
+179,Fee & Service(Commissions) Revenue,true
+180,Other revenue,true
+181,Derivative investments,true
+182,Commercial mortgage loans,true
+183,Policy loans,true
+184,Other investments,true
+185,Property Earned,true
+186,Casualty Earned,true
+187,Other Earned,true
+188,Medical Earned,true
+189,Life Earned,true
+190,Disability Earned,true
+191,Dental Earned,true
+192,Other Life & Health Earned,true
+193,Interest Expenses,true
+194,Amortization and depreciation,true
+195,Other Expenses,true
+196,Operating Expenses,true
+197,Other Interest Income,true
+198,Other Interest Expenses,true
+199,Property & Renewable / Energy& Commodities,true
+200,Consultancy Fees,true
+201,Other Non Interest income,true
+202,Other Non Interest Expenses,true

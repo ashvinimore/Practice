@@ -1,0 +1,54 @@
+IsActive,SegmentID,SegmentName
+true,1,Software As a Product
+true,2,Services
+true,3,Hardware Product
+true,4,Product
+true,5,Services
+true,6,Product
+true,7,Product
+true,8,Services
+true,9,Expenses
+true,10,Product
+true,11,Service
+true,12,Product
+true,13,Services
+true,14,Corporate/Elimination/unallocated
+true,15,Passenger
+true,16,Commercial
+true,17,Corporate and Elimination
+true,18,Electric Product
+true,19,Electric Service
+true,20,Gas Product
+true,21,Gas Service
+true,22,Corporate and elliminations
+true,23,Product
+true,24,Services
+true,25,Interest Income
+true,26,Interest Expense
+true,27,Provisions
+true,28,Non Interest Income
+true,29,Non interest expense
+true,30,Commercial Deposit
+true,31,Consumer Deposit
+true,32,Commercial Loan
+true,33,Consumer Loan
+true,34,Normal / pass
+true,35,Special Mention
+true,36,Sub-standard
+true,37,Doubtful
+true,38,Loss
+true,39,Credit RWA
+true,40,Market RWA
+true,41,Operational RWA
+true,42,Net premiums earned
+true,43,Net investment income
+true,44,Net other revenue
+true,45,Premium Earned General
+true,46,Premiums Earned Life & Health
+true,47,Fixed maturity investments
+true,48,Equity securities
+true,49,Short-term investments
+true,50,Net Other Investment
+true,51,Benefits and losses incurred
+true,52,Acquisition costs
+true,53,"Operating Expenses, Net"

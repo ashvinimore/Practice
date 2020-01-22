@@ -1,0 +1,30 @@
+Company Table and Ticker mapping
+
+first calculate period wise market cap for each of the company in a sector
+Formula =Shares Outstanding * Stock Price Adjusted Stock Split
+
+Then if we are calculating Average for Revenue for a sector the formula would be : =average((Revenue*market cap of company1)/sum of market cap of all companies) , (Revenue*market cap of company2)/sum of market cap of all companies) .....)
+
+calculate the average same way for every element
+
+
+Market Cap = Shares Outstanding * Stock Price Adjusted Stock Split
+
+Total Market Cap= Sum of all companies ;
+
+
+
+Select * From Zeus.XbrlGlobalElement Where Description like 'Shares outstanding%'; // 1820
+Select * From Zeus.XbrlGlobalElement Where Description like '%Stock Price Adjusted Stock Split%'; // 1089
+Select * From Zeus.XbrlGlobalElement Where Description like '%Revenue%'; //
+
+192.168.10.14\ShareBCS\Priya\GE
+(5.110785078 ,  92.212451292 , 142.403324948 , 5.863563787)	
+
+(19749.16172753 * 24.416)/82235.91492198
+
+
+
+
+DWHID = 279(MarketCap)
+

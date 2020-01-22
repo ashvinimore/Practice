@@ -1,0 +1,175 @@
+"ExchangeID","Name","Description","XigniteSymbol","XigniteSuffix","CountryID","CurID","StartTID","EndTID"
+1,"AMEX","American Stock Exchange (AMEX)","XASE","NULL",1,25,34201,68401
+2,"AMMAN","Amman Stock Exchange","XAMM","JO",26,,10801,18001
+3,"AMSTERDAM","Amsterdamse Stock Exchange","XAMS","AS",53,6,10801,41401
+4,"ASX","Australian Stock Exchange","XASX","AX",7,1,72001,34201
+5,"ATHENS","Athens Stock Exchange","XATH","GR",41,6,10801,37201
+6,"BAHRAIN","Bahrain Stock Exchange","XBAH","BH",29,,5401,16201
+7,"BANGKOK","Stock Exchange of Bangkok","XBKK","BK",71,,82801,12601
+8,"BARCELONA","Barcelona Stock Exchange","XBAR","BC",68,6,10801,41401
+9,"BEIRUT","Stock Exchange of Beirut","XBEY","LB",76,,9001,19801
+10,"BERLIN","Berlin Stock Exchange","XBER","BE",5,6,10801,1
+11,"BERMUDA","Bermuda Stock Exchange","XBDA","BD",,,28801,52201
+12,"BILBAO","Bilbao Stock Exchange","XBIL","BI",,,10801,50401
+13,"BOGOTA","Bolsa de Valores de Bogota","XBOG","BO",,,32401,72001
+14,"BOSTWANA","Botswana Stock Exchange","XBOT","BW",32,,9001,12601
+15,"BOVESPA","Sao Paolo Stock Exchange","XBSP","SA",14,,25201,64801
+16,"BREMEN","Bremen Stock Exchange","XBRE","BM",,,10801,50401
+17,"BRUSSELS","Brussels New Trading System","XBRU","BR",,,10801,41401
+18,"BSE","Bombay Stock Exchange","XBOM","MB",9,8,84901,34201
+19,"BUCHAREST","Bucharest Stock Exchange","XBSE","RO",61,,10801,34201
+20,"BUDAPEST","Budapest Stock Exchange","XBUD","HU",42,,10801,37801
+21,"BUENOSAIRES","Buenos Aires Stock Exchange","XMEV","BA",25,,25201,64801
+22,"BULGARIA","Bulgarian Stock Exchange","XBUL","BG",33,,8401,24301
+23,"CAIRO","Cairo Stock Exchange","XCAI","CR",39,,12601,27001
+24,"CARACAS","Caracas Stock Exchange","XCAR","VE",,30,30601,70201
+25,"CASABLANCA","Casablanca Stock Exchange","XCAS","MO",52,,14401,54001
+26,"COLOMBO","Colombo Stock Exchange","XCOL","LK",69,17,1,18001
+27,"COPENHAGEN","Copenhagen Stock Exchange","XCSE","CO",38,,10801,39601
+28,"CYPRUS","Cyprus (Nicosia) Stock Exchange","XCYS","CY",36,6,10801,36001
+29,"DARESSALAAM","Dar es Salaam Stock Exchange","XDAR","TZ",,,5401,28801
+30,"DHAKA","Dhaka Stock Exchange","XDHA","DH",30,,1,14401
+31,"DUSSELDORF","Dusseldorf Stock Exchange","XDUS","DU",5,6,10801,1
+32,"EASDAQ","EASDAQ","NULL","EQ",,,32401,72001
+33,"EUWAX","EUWAX","EUWX","EX",,,7201,46801
+34,"FRANKFURT","Frankfurt Stock Exchange","XFRA","F",5,6,10801,47701
+35,"FUKUOKA","Fukuoka Stock Exchange","XFKA","FU",3,9,72001,1
+36,"FUNDS","US Mutual Funds","NULL","-",,,28801,68401
+37,"GHANA","Ghana Stock Exchange","XGHA","GH",77,,18001,25201
+38,"GRETAI","Gre Tai Emerging Stock Board","ROCO","GT",10,20,75601,7201
+39,"GUAYAQUIL","Guyaquil Stock Exchange","XGUA","GY",,25,32401,72001
+40,"HAMBURG","Hamburg Stock Exchange","XHAM","HM",5,,10801,1
+41,"HANOVER","Hanover Stock Exchange","XHAN","HA",5,,10801,1
+42,"HELSINKI","Helsinki Stock Exchange","XHEL","FI",1,,10801,1
+43,"HERCULES","Hercules Stock Exchange","NULL","NULL",3,9,72001,7201
+44,"HIROSHIMA","Hiroshima Stock Exchange","XHIR","HI",,,72001,25201
+45,"HONGKONG","Hong Kong Stock Exchange","XHKG","HK",6,7,79201,34201
+46,"ICELAND","Iceland Stock Exchange","XICE","IS",,,14401,54001
+47,"IRISH","Irish Stock Exchange","XDUB","IE",44,6,6601,37801
+48,"ISTANBUL","Stock Exchange of Istanbul","XIST","TR",73,44,9001,36001
+49,"JAKARTA","Indonesia Stock Exchange","XJKT","JK",43,,81001,18001
+50,"JASDAQ","Japan Securities Dealers Association","XJAS","JQ",3,9,72001,1
+51,"JOHANNESBURG","Johannesburg Stock Exchange","XJSE","ZA",66,15,7201,36001
+52,"KARACHI","Karachi Stock Exchange","XKAR","PK",56,,901,17101
+53,"KOREA","Korea Stock Exchange","XKRX","KS",15,29,64801,3601
+54,"KOSDAQ","KOSDAQ","XKOS","KQ",15,29,72001,25201
+55,"KUALALUMPUR","Malaysia Exchange","XKLS","KL",48,10,75601,18001
+56,"KUWAIT","Kuwait Stock Exchange","XKUW","KW",23,,5401,41401
+57,"KYOTO","Kyoto Stock Exchange","XKYO","KY",,,72001,25201
+58,"LIMA","Lima Stock Exchange","XLIM","PE",22,39,32401,72001
+59,"LISBON","Lisboa Stock Exchange (EURONEXT)","XLIS","PT",59,,10801,41401
+60,"LJUBLJANA","Ljubljana Stock Exchange","XLJU","LJ",65,6,12601,25201
+61,"LSE","London Stock Exchange (LSE)","XLON","L",2,22,14401,1
+62,"LUSAKA","Lusaka Stock Exchange","XLUS","ZM",,,7201,46801
+63,"LUXEMBURG","Luxemburg Stock Exchange","XLUX","LU",80,6,10801,42001
+64,"MACEDONIA","Macedonian Stock Exchange","XMAE","MK",47,,10801,50401
+65,"MADRID","Madrid Stock Exchange","XMAD","MA",68,6,10801,41401
+66,"MALAWI","Malawi Stock Exchange","XMSW","MW",,,7201,46801
+67,"MALTA","Malta Stock Exchange","XMAL","MT",,,10801,50401
+68,"MANILA","Philippine Stock Exchange","XPHS","PH",57,,73801,83401
+69,"MEXICO","Mexican Stock Exchange","XMEX","MX",51,11,34201,57601
+70,"MILAN","Milan Stock Exchange","XMIL","MI",16,,10801,41701
+71,"MONTEVIDEO","Montevideo Stock Exchange","XMNT","UY",,,25201,64801
+72,"MUNICH","Munich Stock Exchange","XMUN","MU",5,6,10801,1
+73,"NAGOYA","Nagoya Stock Exchange","XNGO","NY",3,9,72001,9001
+74,"NAIROBI","Stock Exchange of Nairobi","XNAI","KE",45,,5401,25201
+75,"NAMIBIA","Namibian Stock Exchange","XNAM","NA",,,7201,36001
+76,"NASDAQCM","NASDAQ Stock Exchange Capital Market","XNCM","NULL",1,25,34201,68401
+77,"NASDAQGM","NASDAQ Stock Exchange Global Market","XNAS","NULL",1,25,34201,68401
+78,"NASDAQGS","NASDAQ Stock Exchange Global Select Market","XNGS","NULL",1,25,34201,68401
+79,"NEWZEALAND","New Zealand Stock Exchange","XNZE","NZ",54,12,61201,1
+80,"NIGERIA","Nigerian Stock Exchange","XNSA","NI",27,43,10801,50401
+81,"NIIGATA","Niigata Stock Exchange","XNII","NG",,,72001,25201
+82,"NSE","National Stock Exchange of India","XNSE","NS",9,8,84901,34201
+83,"NYSE","New York Stock Exchange (NYSE)","XNYS","NULL",1,25,34201,68401
+84,"NYSEARCA","NYSE ARCA","ARCX","NULL",1,25,34201,68401
+85,"OMAN","Muscat Stock Exchange","XMUS","OM",,,1801,37801
+86,"OSAKA","Osaka Stock Exchange","XOSE","OK",3,9,72001,1
+87,"OSLO","Oslo Stock Exchange","XOSL","OL",13,13,10801,41401
+88,"OTCBB","NASDAQ OTCBB (Over the Counter Bulletin Board)","XOTC","NULL",1,25,32401,68401
+89,"OTHEROTC","NASDAQ OTC Market","OOTC","NULL",1,25,28801,68401
+90,"PALESTINE","Palestine Securities Exchange Nablus","XPAE","PS",,,7201,46801
+91,"PARIS","Paris Stock Exchange","XPAR","PA",8,,10801,47701
+92,"PINKSHEETS","Pink Sheets Llc (Nqb)","PINX","NULL",6,,28801,68401
+93,"PLUS","PLUS Market Group","NULL","NULL",2,22,14401,43201
+94,"PRAGUE","Prague Stock Exchange","XRMZ","PG",37,,32401,72001
+95,"QUITO","Quito Stock Exchange","XQUI","QT",,25,32401,72001
+96,"RIGA","Riga Stock Exchange","XRIS","LV",,,10801,25201
+97,"RIODEJANEIRO","Rio De Janeiro Stock Exchange","XRIO","RJ",14,2,28801,54001
+98,"RTSUSD","RTS Classic Market USD","RTSX","RUB",62,25,28801,68401
+99,"SANTIAGO","Santiago Stock Exchange","XSGO","CL",21,32,28801,68401
+100,"SAPPORO","Sapporo Stock Exchange","XSAP","PP",3,9,72001,25201
+101,"SHANGHAI","Shanghai Stock Exchange","XSHG","SS",11,4,73801,7201
+102,"SHENZEN","Shenzhen Stock Exchange","XSHE","SZ",11,4,73801,7201
+103,"SINGAPORE","Singapore Stock Exchange","XSES","SI",18,14,75601,18001
+104,"STOCKHOLM","Stockholm Stock Exchange","XSTO","ST",12,,10801,47701
+105,"STPETERSBURG","St. Petersburg Stock Exchange","XPET","SP",,,3601,43201
+106,"STUTTGART","Stuttgart Stock Exchange","XSTU","SG",5,6,10801,1
+107,"SURABAYA","Surabaya Stock Exchange","XSUR","SU",,,81001,18001
+108,"SWAZILAND","Swaziland Stock Exchange","XSWA","SL",,,7201,46801
+109,"SWISS","Swiss Stock Exchange","XSWX","SW",70,19,10801,41401
+110,"TAIWAN","Taiwan Stock Exchange","XTAI","TW",10,20,75601,5401
+111,"TAIWANOTC","Taiwan OTC Market","ROCO","TWO",10,20,75601,7201
+112,"TALLINN","Tallinn Stock Exchange","XTAL","EE",,,10801,25201
+113,"TEHRAN","Tehran Stock Exchange","XTEH","IR",,,3601,39601
+114,"TELAVIV","Tel Aviv Stock Exchange","XTAE","TA",19,37,9001,37801
+115,"TOKYO","Tokyo Stock Exchange","XTKS","TSE",3,9,72001,1
+116,"TSX","Toronto Stock Exchange","XTSE","TSX",4,3,34201,63001
+117,"TSXV","Canadian Venture Exchange","XTSX","TSXV",1,3,34201,63001
+118,"VALENCIA","Valencia Stock Exchange","XVAL","VA",,,10801,50401
+119,"VIENNA","Vienna Stock Exchange","XWBO","VI",28,6,11701,41701
+120,"VILNIUS","Vilnius Stock Exchange","XLIT","LT",,,10801,25201
+121,"VIRTX","Virt-X","XVTX","VX",1,,10801,1
+122,"WARSAW","Warsaw Stock Exchange","XWAR","WA",58,,10801,37201
+123,"XETRA","XETRA Stock Exchange","XETR","DE",5,,10801,47701
+124,"ZAGREB","Zagreb Stock Exchange","XZAG","ZB",35,,14401,36001
+125,"ZIMBABWE","Zimbabwe Stock Exchange","XZIM","ZW",79,,7201,46801
+126,"PSE","No Exchange","XPSE","PS",1,8,84901,84901
+127,"HOSE","Ho Chi Minh City Stock Exchange","XSTC","NULL",24,42,10801,1
+129,"Hanoi","Hanoi Stock Exchange","NULL","NULL",24,42,10801,1
+130,"MICE","Moscow Interbank Currency Exchange","NULL","NULL",62,,28801,68401
+131,"DOHA","Qatar Exchange","NULL","NULL",60,45,77701,27001
+132,"Tunish SE","Tunish Stock Exchange","NULL","NULL",72,50,48601,79201
+133,"ABD","United Arab Emirates Stock Exchange","","",74,,,
+134,"ADSM","Abu Dhabi Securities Market (ABD)","","",74,,,
+135,"AT","AktieTorget","","",17,,,
+136,"BIT","Borsa Italiana","","",16,,,
+137,"BME","Bolsas y Mercados","","",68,6,,
+138,"BMV","Bolsa Mexicana de Valores (MXK/BVM)","","",51,,,
+139,"BPD","","","",,,,
+140,"BRN","Bern Stock Exchange","","",70,,,
+141,"BRVM","Bourse Regionale des Valeurs Mobilieres","","",34,,,
+142,"BVL","Bolsa de Valores de Lima (Peru Stock Exchange)","","",22,,,
+143,"CLB","Colombia Stock Exchange","","",20,,,
+144,"CNSX","Canadian National Stock Exchange","","",4,,,
+145,"DFM","Dubai Financial Market","","",74,,,
+146,"DIFX","Dubai International Financial Exchange","","",74,,,
+147,"EBR","Euronext Brussels","","",31,,,
+148,"EGX","Egypt Stock Exchange","","",39,,,
+149,"EPA","NYSE Euronext Paris","","",8,,,
+150,"EUR","Euronext","","",53,,,
+151,"FN","Nasdaq OMX First North","","",17,,,
+152,"IBEX-35","Spanish Stock Exchange","","",68,,,
+153,"IDX","Indonesia Stock Exchange","","",43,,,
+154,"ISEQ","Dublin Stock Exchange","","",44,,,
+155,"KAR","Pakistan Stock Exchange","","",56,,,
+157,"KRX","Korean Stock Exchange (Kosdaq)","","",15,,,
+158,"LSX","Lao Securities Exchange","","",,,,
+159,"MASQ","Not available in list also","","",,,,
+160,"MAU","Mauritius Stock Exchange","","",50,,,
+161,"MSE","Mongolia Stock Exchange","","",,,,
+162,"MYX","Bursa Malaysia","","",48,,,
+163,"NGM","Nordic Growth Market","","",17,,,
+164,"NJM","Nasdaq Japan Market","","",3,,,
+165,"NOTC","Norwegian Over the Counter Market","","",13,,,
+166,"OTCMKTS","Not available in list also","","",1,,,
+167,"RTS","Russian Trading System Stock Exchange (RTC, RTD, R","","",62,,,
+168,"SAU","Saudi Arabia Stock Exchange","","",78,,,
+169,"SET","Stock Exchange of Thailand","","",71,,,
+170,"SM","Spanish Alternative Market","","",68,,,
+171,"TKO","Not available in list also","","",3,,,
+172,"UZ","Ukraine Stock Exchange (KSE)","","",,,,
+173,"ZSE","Zagreb Stock Exchange","","",35,,,
+174,"NASDAQ","National Association of Securities Dealers Automat","","",1,,,
+175,"TADAWUL","Saudi Stock Exchange","","",,,,
+176,"SWX","SIX Swiss Exchange","","",,,,

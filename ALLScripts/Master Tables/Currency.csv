@@ -1,0 +1,48 @@
+CurID,CurCode,CountryID,Description,IsActive,Divisor
+1,AUD,,NA        ,1,0.05
+2,BRL,14,NA        ,1,0.1
+3,CAD,4,NA        ,1,0.1
+4,CNY,,NA        ,1,0.1
+5,DKK,38,NA        ,1,2
+6,EUR,,Euro,1,0.1
+7,HKD,,NA        ,1,0.1
+8,INR,9,Indian Rupees       ,1,3
+9,JPY,3,Yen,1,10
+10,MYR,48,NA        ,0,0.1
+11,MXN,51,NA        ,1,0.2
+12,NZD,,NA        ,1,0.05
+13,NOK,13,NA        ,0,0.5
+14,SGD,18,NA        ,1,0.02
+15,ZAR,66,NA        ,1,0.2
+17,LKR,69,NA        ,0,1
+18,SEK,17,Krona,1,0.5
+19,CHF,70,NA        ,1,1
+20,TWD,10,NA        ,1,0.1
+21,THB,71,NA        ,1,0.5
+22,GBP,,POUND     ,1,0.1
+25,USD,,US DOLLAR,1,0.1
+26,RUB,62,Ruble(RUB),1,0.2
+27,RMB,,RMB,0,0.1
+28,FRA,8,FRANC,0,1
+29,KRW,,NA,1,200
+30,VEF,,NA,0,50
+31,ARS,,NA,1,0.03
+32,CLP,21,NA,1,10
+33,CRC,,NA,1,0.1
+34,GTQ,,NA,1,0.1
+35,HNL,,NA,1,0.1
+36,NIO,,NA,1,0.1
+37,ILS,19,Shekel(ILS),1,0.2
+39,PEN,22,Peruvian Nuevo Sol(PEN),1,0.1
+40,COP,20,Colombian Peso,1,100
+41,KWD,23,Kuwaiti Dinar,1,0.1
+42,VND,24,Vietnam Dong,1,0.1
+43,NGN,27,Nigerian Naira,1,10
+44,TRY,73,New Turkish Lyra,1,0.1
+45,QAR,60,Qatari Riyal,1,0.1
+46,OMR,55,Oman Rial,1,0.1
+47,DZD,,Algerian dinar,1,0.1
+48,IQD,,Iraqi Dinar,1,0.1
+49,RON,61,Romanian New Leu,1,0.1
+50,TND,72,Tunish Dinar,1,0.1
+51,SAR,78,Saudi Arabian Riyal,1,

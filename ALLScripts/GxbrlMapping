@@ -1,0 +1,31 @@
+Unique ID from DWElement table:
+SELECT distinct DW.EleRefID as 'DWElementID',GL.GxbrlEleID as 'GlobalElement',
+DW.RefEleDescription As 'DWDescription',GL.Description as 'Description' 
+FROM DWElement DW 
+LEFT OUTER JOIN GlobalElement1 GL
+ON DW.EleRefID = GL.GxbrlEleID   and DW.RefEleDescription = GL.Description
+where GL.GxbrlEleID IS NULL ;
+
+Unique element from Globalelement table :
+SELECT DW.EleRefID as 'DWElementID',distinct GL.GxbrlEleID as 'GlobalElement',
+DW.RefEleDescription As 'DWDescription',GL.Description as 'Description' 
+FROM DWElement DW 
+RIGHT OUTER JOIN GlobalElement1 GL
+ON DW.EleRefID = GL.GxbrlEleID   and DW.RefEleDescription = GL.Description
+where DW.EleRefID IS NULL ;
+
+
+
+Update on JOIN:
+UPDATE DWElement DW 
+INNER JOIN GlobalElement1 GL
+ON DW.EleRefID = GL.GxbrlEleID 
+SET DW.UnitID = GL.Unit;
+
+DataID
+UnitID
+PeriodTypeID
+Taxonomy
+Weight
+FormID
+RefFormula

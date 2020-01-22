@@ -1,0 +1,27 @@
+IsActive,SubElementID,SubElementName,GicsID
+true,1,Government,
+true,2,Commercial,
+true,3,NGO’s,
+true,4,Health,
+true,5,Others,
+true,6,Cost reimbursable,
+true,7,Fixed price,
+true,8,Time and materials,
+true,9,Channel Partners,
+true,11,Direct Customers,
+true,12,Prime Contractor,
+true,13,Subcontractor,
+true,14,Communication services,10
+true,15,Consumer discretionary,5
+true,16,Consumer staples,6
+true,17,Energy,2
+true,18,Financials,8
+true,19,Health care,7
+true,20,Industrials,4
+true,21,Information technology,9
+true,22,Materials,3
+true,23,Real estate,30
+true,24,Utilities,11
+true,25,Royalties/Licensee/Franchise,
+true,26,Regulated,
+true,27,Unregulated,

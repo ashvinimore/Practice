@@ -1,0 +1,4 @@
+DWHDerEleID,DerEleType,IsVirtuaElement,Formula,ReportedDateID,Value,DerEleDescription
+1,1,1,NULL,20191211,1.000000,Ratio
+2,1,1,NULL,20191211,2.000000,Ratio
+3,2,0,"e_1820 * e_1089",20191211,NULL,"Market Cap"

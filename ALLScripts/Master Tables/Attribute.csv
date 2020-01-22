@@ -1,0 +1,79 @@
+AttID,TypeID,AttType,Display
+0,1,XBRL Type,Presentation
+1,1,XBRL Type,Calculation
+2,2,Period Type,Duration
+3,2,Period Type,Instance
+4,2,Period Type,Others
+5,3,Report Type,8K
+6,3,Report Type,10Q
+67,3,Report Type,10K
+7,4,D,Daily
+8,4,W,Weekly
+9,4,M,Monthly
+10,4,Q,Quarterly
+11,4,H,Half Yearly
+12,4,Y,Yearly
+13,5,Company Status,Active
+14,5,Company Status,Internal Active
+15,5,Company Status,Data Only
+16,5,Company Status,Stopped Reporting
+17,5,Company Status,Delisted
+18,5,Company Status,Merged
+19,5,Company Status,Demo Company
+20,5,Company Status,Archived
+21,6,Depository Receipt,GDR
+22,6,Depository Receipt,ADR
+23,6,Depository Receipt,NA
+24,7,Validate Type,0
+25,7,Validate Type,1
+26,7,Validate Type,10
+27,7,Validate Type,15
+28,7,Validate Type,20
+29,7,Validate Type,25
+30,7,Validate Type,30
+31,8,Ticker Trading Status,Active
+32,8,Ticker Trading Status,Inactive
+33,9,Revision Type,Migrated Revision
+34,9,Revision Type,XBRL Imported Revision
+35,9,Revision Type,XBRL Quarter Update Revision
+36,9,Revision Type,IAC Revision
+77,9,Revision Type,IAC As Reported
+37,10,Element Type,Ratio
+38,10,Element Type,External Element
+39,10,Element Type,Standard Model Element
+40,10,Element Type,User Defined Element
+41,10,Element Type,Company Reported Element
+42,11,Notes Type,Company Notes
+43,11,Notes Type,XBRL Notes
+44,12,Xbrl Element Type,Abstract
+45,12,Xbrl Element Type,Axis
+46,12,Xbrl Element Type,Domain
+47,12,Xbrl Element Type,Line Items
+48,12,Xbrl Element Type,Member
+49,12,Xbrl Element Type,Policy Text Block
+50,12,Xbrl Element Type,Roll Forward
+51,12,Xbrl Element Type,Table
+52,12,Xbrl Element Type,Table Text Block
+53,12,Xbrl Element Type,Text Block
+54,12,Xbrl Element Type,null
+55,13,Xbrl Element Group,dimension
+56,13,Xbrl Element Group,hypercube
+57,13,Xbrl Element Group,item
+58,14,IAC Population Status,Inactive
+59,14,IAC Population Status,In-Queue
+60,14,IAC Population Status,Started
+61,14,IAC Population Status,Completed
+62,14,IAC Population Status,Error
+79,14,Population Status,In-Queue for Institutional Holding
+63,15,Market Caps,Micro Cap
+64,15,Market Caps,Small Cap
+65,15,Market Caps,Mid Cap
+66,15,Market Caps,Large Cap
+78,16,Validation Rule,OI Rule
+68,17,IWeb Population Status,Inactive
+69,17,IWeb Population Status,In-Queue
+70,17,IWeb Population Status,Started
+71,17,IWeb Population Status,Completed
+72,17,IWeb Population Status,Error
+73,18,DWH Source,Modeling Tool
+74,18,DWH Source,Indigo Web

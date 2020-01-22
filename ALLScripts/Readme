@@ -1,0 +1,6 @@
+1 . /home/pavan/Music/Data Warehouse/maintable.py :
+This python script extract all data from Industry Template and store it in  DataWarehouse.DWHMainQuery with all possible unique compbinations.
+
+2./home/pavan/Music/Data Warehouse/maintableglobal.py :
+This python script extract all data from global Template and store it in  DataWarehouse.DWHMainQuery with all possible unique compbinations.
+

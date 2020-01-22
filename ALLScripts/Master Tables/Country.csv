@@ -1,0 +1,101 @@
+CountryID,Name,Abbreviation,NativeLang,IsMultipleLang,DatabaseName,ServerIP,UserName,Password,Provider
+0,World,,,,,,,,
+1,US,US,,b'0',Jupiter,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+2,UK,UK,,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+3,Japan,JP,Japanese,b'1',Mercury,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+4,Canada,CN,French,b'0',Jupiter,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+5,Germany,GM,German,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+6,HongKong,HK,Chinese,b'1',Neptune,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+7,Australia,AU,,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+8,France,FR,French,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+9,India,IN,Hindi,b'1',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+10,Taiwan,TW,Mandarin,b'1',Mars,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+11,China,CH,Chinese,b'1',Neptune,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+12,Finland,FI,Finnish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+13,Norway,NO,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+14,Brazil,BR,Portuguese,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+15,Korea,KR,Korean,b'1',Neptune,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+16,Italy,IT,Italian,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+17,Sweden,SE,Swedish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+18,Singapore,SG,,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+19,Israel,IL,Hebrew,b'1',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+20,Colombia,CB,Spanish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+21,Chile,CL,Spanish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+22,Peru,PE,Spanish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+23,Kuwait,KW,Arabic,b'1',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+24,Vietnam,VN,Vietnamese,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+25,Argentina,AR,Spanish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+26,Jordan,JO,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+27,Nigeria,NG,,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+28,Austria,AT,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+29,Bahrain,BH,Arabic,b'1',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+30,Bangladesh,BD,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+31,Belgium,BE,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+32,Botswana,BW,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+33,Bulgaria,BG,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+34,Ivory Coast,CI,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+35,Croatia,HR,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+36,Cyprus,CY,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+37,Czech Republic,CZ,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+38,Denmark,DK,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+39,Egypt,EG,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+40,Estonia,EE,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+41,Greece,GR,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+42,Hungary,HU,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+43,Indonesia,ID,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+44,Ireland,IE,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+45,Kenya,KE,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+46,Lithuania,LT,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+47,Macedonia,MK,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+48,Malaysia,MY,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+49,Malta,MT,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+50,Mauritius,MU,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+51,Mexico,MX,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+52,Morocco,MA,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+53,Netherlands,NL,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+54,New Zealand,NZ,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+55,Oman,OM,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+56,Pakistan,PK,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+57,Philippines,PH,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+58,Poland,PL,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+59,Portugal,PT,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+60,Qatar,QA,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+61,Romania,RO,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+62,Russia,RU,Russian,b'1',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+63,"Serbia	",CS,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+64,Slovakia,SK,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+65,Slovenia,SI,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+66,South Africa,ZA,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+67,"South Korea	",KR,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+68,Spain,ES,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+69,Sri Lanka,LK,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+70,Switzerland,CH,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+71,Thailand,TH,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+72,Tunisia,TN,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+73,Turkey,TR,Turkish,b'0',Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+74,UAE,UAE,,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+75,Scotland,SCO,English ,,Venus,192.168.1.xx,mysqlusr,<password>,MySql.Data.MySqlClient
+76,Lebanon,LBN,Arabic,,,,,,
+77,Ghana,GHA,English,,,,,,
+78,Saudi Arabia,SAU,Arabic,,,,,,
+79,Zimbabwe,ZW,English,b'1',,,,,
+80,Luxembourg,LUX,Luxembourgish,b'1',,,,,
+81,Myanmar,MM,Burmese,b'0',,,,,
+82,Azerbaijan,AZ,Azerbaijani,b'1',,,,,
+83,Trinidad,TT,English,b'1',,,,,
+84,Sint Maarten,SX,English,b'1',,,,,
+85,Saint Kitts and Nevis,KN,English,b'1',,,,,
+86,Georgia,GA,Georgian,b'0',,,,,
+87,Armenia,AM,Armenians,b'0',,,,,
+88,Cuba,CU,Spanish,b'0',,,,,
+89,Iran,IR,Persian,b'0',,,,,
+90,Uganda,UG,,b'0',,,,,
+91,Bermuda,BM,,b'0',,,,,
+92,Mozambique,MZ,,b'0',,,,,
+93,Mangolia,MN,,b'0',,,,,
+94,Mauritania,MR,Arabic,,,,,,
+95,Combodia,KH,Khmer,,,,,,
+96,Papua New Guinea,PG,English,,,,,,
+97,Cameroon,CM,English,b'1',,,,,
+98,Angola,AO,Portuguese,b'1',,,,,
+99,Equatorial Guinea,GQ,Spanish,b'1',,,,,

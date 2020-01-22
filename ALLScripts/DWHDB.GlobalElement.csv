@@ -1,0 +1,502 @@
+DataID,Description,FormID,Formula,GXbrlEleID,ParentGXbrlEleID,PeriodTypeID,Taxonomy,Unit,Weight,_id
+1,Expenses related to employee stock plans,3,,99,94,2,global_Expensesrelatedtoemployeestockplans,3,1,5dca9b524b8f118dc73303e2
+1,"Non-Cash Interest Expense/Income, Net",3,,101,94,2,global_Non-CashInterestExpenseIncomeNet,3,1,5dca9b524b8f118dc73303e3
+1,Long Lived Assets Impairment,3,,103,94,2,global_LongLivedAssetsImpairment,3,1,5dca9b524b8f118dc73303e4
+1,"Net (gain) loss on derivative instruments, Net",3,,104,94,2,global_NetgainlossonderivativeinstrumentsNet,3,1,5dca9b524b8f118dc73303e5
+1,"Pension and other postretirement benefits expense, Net",3,,105,94,2,global_PensionandotherpostretirementbenefitsexpenseNet,3,1,5dca9b524b8f118dc73303e6
+1,"Equity in earnings of unconsolidated ventures, Net",3,,109,94,2,global_EquityinearningsofunconsolidatedventuresNet,3,1,5dca9b524b8f118dc73303e7
+1,"Others Non Cash Items, Net",3,,111,94,2,global_OthersNonCashItemsNet,3,1,5dca9b524b8f118dc73303e8
+1,Accured / Prepaid Expenses,3,,114,95,2,global_AccuredPrepaidExpenses,3,1,5dca9b524b8f118dc73303e9
+1,Accured Derivative Expenses/Settlements,3,,115,95,2,global_AccuredDerivativeExpensesSettlements,3,1,5dca9b524b8f118dc73303ea
+1,Other Current Assets,3,,116,95,2,global_OtherCurrentAssets,3,1,5dca9b524b8f118dc73303eb
+1,"Program Right Obligations, Net",3,,117,95,2,global_ProgramRightObligationsNet,3,1,5dca9b524b8f118dc73303ec
+1,Adjustments,3,,94,88,2,global_Adjustments,3,1,5dca9b524b8f118dc73303ed
+1,Net unrealized foreign currency loss (gain),3,,106,94,2,global_Netunrealizedforeigncurrencylossgain,3,1,5dca9b524b8f118dc73303ee
+1,CashAtEndOfPeriod,3,,82,,3,global_CashAtEndOfPeriod,3,1,5dca9b524b8f118dc73303ef
+11,Liabilites and Shareholder's Equity,1,,3,,,global_LiabilitesandShareholder'sEquity,,,5dca9b524b8f118dc73303f0
+1,Loss(Income) on Disposal of Assets,3,,107,94,2,global_LossIncomeonDisposalofAssets,3,1,5dca9b524b8f118dc73303f1
+1,Loss(Income) on Extinguishment of Assets/Debt,3,,108,94,2,global_LossIncomeonExtinguishmentofAssetsDebt,3,1,5dca9b524b8f118dc73303f2
+1,Accounts payable and other accrued expenses,3,,118,95,2,global_Accountspayableandotheraccruedexpenses,3,1,5dca9b524b8f118dc73303f3
+1,"Accrued Expenses, Expenses Payable",3,,119,95,2,global_AccruedExpensesExpensesPayable,3,1,5dca9b524b8f118dc73303f4
+1,"Inventories, Net",3,,113,95,2,global_InventoriesNet,3,1,5dca9b524b8f118dc73303f5
+1,"Accounts receivable, net",3,,112,95,2,global_Accountsreceivablenet,3,1,5dca9b524b8f118dc73303f6
+1,Other Current Liablities,3,,123,95,2,global_OtherCurrentLiablities,3,1,5dca9b524b8f118dc73303f7
+1,"Capital Additions Tangible Assets, Net",3,,124,89,2,global_CapitalAdditionsTangibleAssetsNet,3,1,5dca9b524b8f118dc73303f8
+1,Deferred assets/Liabilities,3,,121,95,2,global_DeferredassetsLiabilities,3,1,5dca9b524b8f118dc73303f9
+1,Provision Doubtful Accounts,3,,110,94,2,global_ProvisionDoubtfulAccounts,3,1,5dca9b524b8f118dc73303fa
+1,Income Taxes payable and receivable,3,,120,95,2,global_IncomeTaxespayableandreceivable,3,1,5dca9b524b8f118dc73303fb
+1,"Capital Additions (Business Acquistions), Net",3,,125,89,2,global_CapitalAdditionsBusinessAcquistionsNet,3,1,5dca9b524b8f118dc73303fc
+1,Payment or Proceeds from Sale of Other Assets,3,,127,89,2,global_PaymentorProceedsfromSaleofOtherAssets,3,1,5dca9b524b8f118dc73303fd
+1,Short Term Debt(Against Inventories),3,,122,95,2,global_ShortTermDebtAgainstInventories,3,1,5dca9b524b8f118dc73303fe
+1,"Investment in Affiliates/Unconsolidated Subsidiary/Equity Method, Net",3,,130,89,2,global_InvestmentinAffiliatesUnconsolidatedSubsidiaryEquityMethodNet,3,1,5dca9b524b8f118dc73303ff
+1,"Payment/Proceeds from Investments, Net",3,,126,89,2,global_PaymentProceedsfromInvestmentsNet,3,1,5dca9b524b8f118dc7330400
+1,Proceeds from Sale of Tangible Assets,3,,133,124,2,global_Proceeds�from�SaleofTangibleAssets,3,1,5dca9b524b8f118dc7330401
+1,"Goodwill, Net",3,,129,89,2,global_GoodwillNet,3,1,5dca9b524b8f118dc7330402
+1,Capital Additions Tangible Assets,3,,132,124,2,global_CapitalAdditionsTangibleAssets,3,1,5dca9b524b8f118dc7330403
+1,PurchaseOtherAssets,3,,138,127,2,global_PurchaseOtherAssets,3,1,5dca9b524b8f118dc7330404
+1,"Procceds from Stock Option Exercies, Net of Tax Benefits",3,,142,90,2,global_ProccedsfromStockOptionExerciesNetofTaxBenefits,3,1,5dca9b524b8f118dc7330405
+1,Other Investing Activity,3,,131,89,2,global_OtherInvestingActivity,3,1,5dca9b524b8f118dc7330406
+1,Capital Additions (Business Acquistions),3,,134,125,2,global_CapitalAdditionsBusinessAcquistions,3,1,5dca9b524b8f118dc7330407
+1,Capital Additions Intangible Assets,3,,128,89,2,global_CapitalAdditionsIntangibleAssets,3,1,5dca9b524b8f118dc7330408
+1,Purchases of Investments,3,,136,126,2,global_PurchasesofInvestments,3,1,5dca9b524b8f118dc7330409
+1,"Total Dividend Payment, Net",3,,144,90,2,global_TotalDividendPaymentNet,3,1,5dca9b524b8f118dc733040a
+1,"Proceeds/Payment of Long Term Debt, Net",3,,143,90,2,global_ProceedsPaymentofLongTermDebtNet,3,1,5dca9b524b8f118dc733040b
+1,"Proceeds/Payment of Common Stock, Net",3,,140,90,2,global_ProceedsPaymentofCommonStockNet,3,1,5dca9b524b8f118dc733040c
+1,Proceeds from Sale of Investments,3,,137,126,2,global_ProceedsfromSaleofInvestments,3,1,5dca9b524b8f118dc733040d
+1,Proceeds (payments) related to business dispositions/ Divestitures,3,,135,125,2,global_ProceedspaymentsrelatedtobusinessdispositionsDivestitures,3,1,5dca9b524b8f118dc733040e
+1,Proceeds from sale of Other Assets,3,,139,127,2,global_Proceeds�from�saleofOtherAssets,3,1,5dca9b524b8f118dc733040f
+1,Repurchase of Common Stock,3,,149,140,2,global_RepurchaseofCommonStock,3,1,5dca9b524b8f118dc7330410
+1,Proceeds from issuance of common stock,3,,148,140,2,global_Proceedsfromissuanceofcommonstock,3,1,5dca9b524b8f118dc7330411
+1,Repurchase of Preferred Stock,3,,151,141,2,global_RepurchaseofPreferredStock,3,1,5dca9b524b8f118dc7330412
+1,Excess tax benefits from stock-based compensation,3,,153,142,2,global_Excesstaxbenefitsfromstock-basedcompensation,3,1,5dca9b524b8f118dc7330413
+1,Stock option exercises,3,,152,142,2,global_Stockoptionexercises,3,1,5dca9b524b8f118dc7330414
+1,Merger Releated Cost,3,,146,90,2,global_MergerReleatedCost,3,1,5dca9b524b8f118dc7330415
+1,"Proceeds/Payment of Preferred Stock, Net",3,,141,90,2,global_ProceedsPaymentofPreferredStockNet,3,1,5dca9b524b8f118dc7330416
+1,Other Financing Activities,3,,147,90,2,global_OtherFinancingActivities,3,1,5dca9b524b8f118dc7330417
+1,Deferred Financing Costs (Debt/Equity Issuance Cost),3,,145,90,2,global_DeferredFinancingCostsDebtEquityIssuanceCost,3,1,5dca9b524b8f118dc7330418
+7,Total Shares Outstanding,51,,1820,,3,global_TotalSharesOutstanding,,1,5dca9b524b8f118dc7330419
+1,Funded Backlog,,,6062,,3,,3,1,5dca9b524b8f118dc733041a
+1,Total shareholders' equity,1,,298,300,3,global_Totalshareholders'equity,3,1,5dca9b524b8f118dc733041b
+1,Total Backlog,,,6064,,3,,3,1,5dca9b524b8f118dc733041c
+1,Book-to-Bill Ratio,,,6065,,3,,0,1,5dca9b524b8f118dc733041d
+1,Unfunded Backlog,,,6063,,3,,3,1,5dca9b524b8f118dc733041e
+1,Proceeds from issuance of Preferred stock,3,,150,141,2,global_ProceedsfromissuanceofPreferredstock,3,1,5dca9b524b8f118dc733041f
+1,Less: Preferred stock dividends and other,2,,239,,2,global_Less:Preferredstockdividendsandother,3,1,5dca9b524b8f118dc7330420
+11,Company External Elements,51,,1630,,,global_CompanyExternalElements,,,5dca9b524b8f118dc7330421
+10,DAU (Daily Active User),,,6069,,2,,3,1,5dca9b524b8f118dc7330422
+10,MAU (Monthly Active Users),,,6070,,2,,3,1,5dca9b524b8f118dc7330423
+3,Dollor Based Net Expansion Rate %,,,6067,,3,,0,1,5dca9b524b8f118dc7330424
+15,Stock Price Adjusted Stock Split,51,,1089,,3,global_StockPriceAdjustedStockSplit,,1,5dca9b524b8f118dc7330425
+3,Organic Growth %,,,6073,,3,,0,1,5dca9b524b8f118dc7330426
+1,Total liabilities and equity,1,(J80+J79),300,,3,global_Totalliabilitiesandequity,3,1,5dca9b524b8f118dc7330427
+3,Revenue %,,,6066,,3,,0,1,5dca9b524b8f118dc7330428
+1,Cumulative other comprehensive income (loss),1,,295,298,3,global_Cumulativeothercomprehensiveincome(loss),3,1,5dca9b524b8f118dc7330429
+3,FX Impact %,,,6077,,3,,0,1,5dca9b524b8f118dc733042a
+3,Price %,,,6072,,3,,0,1,5dca9b524b8f118dc733042b
+16,Production Volume (cf),,,6080,,3,,3,1,5dca9b524b8f118dc733042c
+3,Acquisition and Divestiture %,,,6074,,3,,0,1,5dca9b524b8f118dc733042d
+1,Billings,,,6068,,2,,3,1,5dca9b524b8f118dc733042e
+1,Deferred Unearned Revenue Current,1,,52,13,3,global_DeferredUnearnedRevenueCurrent,3,1,5dca9b524b8f118dc733042f
+1,"Long Term Debt, Net",1,,53,11,3,global_LongTermDebtNet,3,1,5dca9b524b8f118dc7330430
+1,Derivative Instruments/Liablilities,1,,59,11,3,global_DerivativeInstrumentsLiablilities,3,1,5dca9b524b8f118dc7330431
+1,Other Long Term Liabitities,1,,61,11,3,global_OtherLongTermLiabitities,3,1,5dca9b524b8f118dc7330432
+1,Total Debt Securities,1,,257,4,3,global_TotalDebtSecurities,3,1,5dca9b524b8f118dc7330433
+1,Proceeds From Long term Debt,3,,154,143,2,global_ProceedsFromLongtermDebt,3,1,5dca9b524b8f118dc7330434
+1,Deposits,1,,55,11,3,global_Deposits,3,1,5dca9b524b8f118dc7330435
+1,Pension and other postretirement liabilities,1,,60,11,3,global_Pensionandotherpostretirementliabilities,3,1,5dca9b524b8f118dc7330436
+1,Total Partner's Equity,1,,62,10,3,global_TotalPartner'sEquity,3,1,5dca9b524b8f118dc7330437
+15,Diluted EPS,2,(166/164),162,,2,global_DilutedEPS,0,1,5dca9b524b8f118dc7330438
+1,Change In Short Term Borrowings,3,,156,90,2,global_ChangeInShortTermBorrowings,3,1,5dca9b524b8f118dc7330439
+15,Stock Price,51,,158,,3,global_StockPrice,,1,5dca9b524b8f118dc733043a
+11,Income Statement,2,,160,,,global_IncomeStatement,,,5dca9b524b8f118dc733043b
+1,Repayment of Long term Debt,3,,155,143,2,global_RepaymentofLongtermDebt,3,1,5dca9b524b8f118dc733043c
+1,Dividend Paid to Minority Interest,3,,159,144,2,global_DividendPaidtoMinorityInterest,3,1,5dca9b524b8f118dc733043d
+15,Dividend Per Share,2,,165,,2,global_DividendPerShare,0,1,5dca9b524b8f118dc733043e
+7,Basic Shares,2,,163,,3,global_BasicShares,3,1,5dca9b524b8f118dc733043f
+1,Operating Income,2,(175-169),170,,2,global_OperatingIncome,3,1,5dca9b524b8f118dc7330440
+1,Dividend Paid,3,,157,144,2,global_DividendPaid,3,1,5dca9b524b8f118dc7330441
+7,Diluted Shares,2,,164,,3,global_DilutedShares,3,1,5dca9b524b8f118dc7330442
+1,Net Income from Continuing Operations,2,(168-211),167,,2,global_NetIncomefromContinuingOperations,3,1,5dca9b524b8f118dc7330443
+15,Basic EPS,2,(166/163),161,,2,global_BasicEPS,0,1,5dca9b524b8f118dc7330444
+1,Income Before Income Taxes,2,(170-207+208),168,,2,global_IncomeBeforeIncomeTaxes,3,1,5dca9b524b8f118dc7330445
+1,EBITDA,2,(170+96),171,,2,global_EBITDA,3,1,5dca9b524b8f118dc7330446
+1,Adjusted EBITDA,2,,172,,2,global_AdjustedEBITDA,3,1,5dca9b524b8f118dc7330447
+1,Service Revenue,2,,177,173,2,global_ServiceRevenue,3,1,5dca9b524b8f118dc7330448
+1,Net income available to Common ShareHolder,2,(167+212+213+214+215),166,,2,global_NetincomeavailabletoCommonShareHolder,3,1,5dca9b524b8f118dc7330449
+1,Franchise Revenue,2,,179,173,2,global_FranchiseRevenue,3,1,5dca9b524b8f118dc733044a
+1,License Revenue,2,,180,173,2,global_LicenseRevenue,3,1,5dca9b524b8f118dc733044b
+1,Collaborative revenue,2,,181,173,2,global_Collaborativerevenue,3,1,5dca9b524b8f118dc733044c
+1,Other Revenue,2,,182,173,2,global_OtherRevenue,3,1,5dca9b524b8f118dc733044d
+1,Gross Profit,2,(173-174),175,,2,global_GrossProfit,3,1,5dca9b524b8f118dc733044e
+1,Product Revenue,2,,176,173,2,global_ProductRevenue,3,1,5dca9b524b8f118dc733044f
+1,Support,2,,184,177,2,global_Support,3,1,5dca9b524b8f118dc7330450
+1,Total Revenue,2,,173,,2,global_TotalRevenue,3,1,5dca9b524b8f118dc7330451
+1,Cost of Service,2,,186,174,2,global_CostofService,3,1,5dca9b524b8f118dc7330452
+1,Subscription,2,,183,177,2,global_Subscription,3,1,5dca9b524b8f118dc7330453
+1,"Selling, General & Administration",2,,191,169,2,global_SellingGeneral&Administration,3,1,5dca9b524b8f118dc7330454
+1,Advertising and sales promotion,2,,193,169,2,global_Advertisingandsalespromotion,3,1,5dca9b524b8f118dc7330455
+1,Operating Expenses,2,,169,,2,global_OperatingExpenses,3,1,5dca9b524b8f118dc7330456
+1,General and Administration,2,,190,191,2,global_GeneralandAdministration,3,1,5dca9b524b8f118dc7330457
+1,License Fees and Royalties,2,,194,169,2,global_LicenseFeesandRoyalties,3,1,5dca9b524b8f118dc7330458
+1,Total COGS,2,,174,,2,global_TotalCOGS,3,1,5dca9b524b8f118dc7330459
+1,Cost of Subscription,2,,187,186,2,global_CostofSubscription,3,1,5dca9b524b8f118dc733045a
+1,Cost of Support,2,,188,186,2,global_CostofSupport,3,1,5dca9b524b8f118dc733045b
+1,Cost of Product,2,,185,174,2,global_CostofProduct,3,1,5dca9b524b8f118dc733045c
+1,Interest Expenses,2,,201,203,2,global_InterestExpenses,3,1,5dca9b524b8f118dc733045d
+1,Other Operating Expenses,2,,200,169,2,global_OtherOperatingExpenses,3,1,5dca9b524b8f118dc733045e
+1,Impariment of Long-Lived Assets,2,,196,169,2,global_ImparimentofLong-LivedAssets,3,1,5dca9b524b8f118dc733045f
+1,Gain and Sale of Business(Divestitures),2,,198,169,2,global_GainandSaleofBusinessDivestitures,3,1,5dca9b524b8f118dc7330460
+1,Gain and Sale of Assets,2,,197,169,2,global_GainandSaleofAssets,3,1,5dca9b524b8f118dc7330461
+1,Depreciation and Amortization,2,,195,169,2,global_DepericationandAmortization,3,1,5dca9b524b8f118dc7330462
+1,Selling and Marketing,2,,189,191,2,global_SellingandMarketing,3,1,5dca9b524b8f118dc7330463
+1,"Total Interest Exp/(Inc), Net",2,,203,207,2,global_TotalInterestExpIncNet,3,1,5dca9b524b8f118dc7330464
+1,Royalities,2,,178,173,2,global_Royalities,3,1,5dca9b524b8f118dc7330465
+1,"Gain and Sale of Assets, Non Operating Income",2,,204,207,2,global_GainandSaleofAssetsNonOperatingIncome,3,1,5dca9b524b8f118dc7330466
+1,Research & Development,2,,192,169,2,global_Research&Development,3,1,5dca9b524b8f118dc7330467
+1,Other Non Operating Exp/(Inc),2,,206,207,2,global_OtherNonOperatingExpInc,3,1,5dca9b524b8f118dc7330468
+1,Restructring Related Exp,2,,199,169,2,global_RestructringRelatedExp,3,1,5dca9b524b8f118dc7330469
+1,Current Income Tax,2,,209,211,2,global_CurrentIncomeTax,3,1,5dca9b524b8f118dc733046a
+1,Total Non Operating Exp/(Inc),2,,207,,2,global_TotalNonOperatingExpInc,3,1,5dca9b524b8f118dc733046b
+1,Equity in earnings of unconsolidated affiliates/JV,2,,208,,2,global_EquityinearningsofunconsolidatedaffiliatesJV,3,1,5dca9b524b8f118dc733046c
+1,Deferred Income Tax,2,,210,211,2,global_DeferredIncomeTax,3,1,5dca9b524b8f118dc733046d
+1,Interest Income,2,,202,203,2,global_InterestIncome,3,1,5dca9b524b8f118dc733046e
+1,"Gain and Sale of Business(Divestitures), Non Operating Income",2,,205,207,2,global_GainandSaleofBusinessDivestituresNonOperatingIncome,3,1,5dca9b524b8f118dc733046f
+1,Preferred Dividends/Income attributable to Participating Securities,2,,215,,2,global_Netincomeattributabletoparticipatingsecurities,3,1,5dca9b524b8f118dc7330470
+1,"Deferred Revenue, Long term",1,,218,11,3,global_DeferredRevenueLongterm,3,1,5dca9b524b8f118dc7330471
+1,Net income attributable to Non-Controlling Interest,2,,214,,2,global_NetincomeattributabletoNon-ControllingInterest,3,1,5dca9b524b8f118dc7330472
+1,Equity in earnings of unconsolidated affiliates/JV,2,,213,,2,global_EquityinearningsofunconsolidatedaffiliatesJV,3,1,5dca9b524b8f118dc7330473
+1,Provision of Income Taxes,2,,211,,2,global_ProvisionofIncomeTaxes,3,1,5dca9b524b8f118dc7330474
+1,Preferred Dividends,3,,217,144,2,global_PreferredDividends,3,1,5dca9b524b8f118dc7330475
+1,Other Current liabilities,1,,220,13,3,global_OtherCurrentLiablities,3,1,5dca9b524b8f118dc7330476
+3,Tax Rate %,2,(211/168),216,,3,global_TaxRate%,0,1,5dca9b524b8f118dc7330477
+1,Gain/(Loss) from Discontinued Operations,2,,212,,2,global_GainLossfromDiscontinuedOperations,3,1,5dca9b524b8f118dc7330478
+1,Allowances,1,,261,262,3,global_Allowances,3,1,5dca9b524b8f118dc7330479
+7,Volume Traded,51,,244,,2,global_VolumeTraded,,1,5dca9b524b8f118dc733047a
+1,Net Operating Assets,1,,262,4,3,global_NetOperatingAssets,3,1,5dca9b524b8f118dc733047b
+1,"Held-to-maturity, at cost",1,,256,257,3,"global_Held-to-maturity,atcost",3,1,5dca9b524b8f118dc733047c
+1,Net income(Loss),2,(236-237),238,,2,global_Netincome(Loss),3,1,5dca9b524b8f118dc733047d
+1,Unearned ESOP shares,1,,297,298,3,global_UnearnedESOPshares,3,1,5dca9b524b8f118dc733047e
+11,Adjustments to reconcile net income to net cash provided by operating activities:,3,,304,,,,,1,5dca9b524b8f118dc733047f
+11,Revenue:,2,,351,,,global_Revenue:,,,5dca9b524b8f118dc7330480
+10,"Number of aircraft in fleet, EOP",,,6126,,3,,0,1,5dca9b524b8f118dc7330481
+11,Cost:,2,,356,,,global_Cost:,,,5dca9b524b8f118dc7330482
+1,Room/Rental Expenses,2,,357,361,2,global_Room/Rental Expenses,3,1,5dca9b524b8f118dc7330483
+11,Expenses:,2,,355,,,global_Expenses:,,,5dca9b524b8f118dc7330484
+1,Room/Rental Revenue,2,,352,173,2,global_Room/Rental Revenue,3,1,5dca9b524b8f118dc7330485
+1,Strategic capital & Development,2,,354,173,2,global_Strategic capital & Development,3,1,5dca9b524b8f118dc7330486
+10,Average stage length (miles),,,6127,,3,,0,1,5dca9b524b8f118dc7330487
+1,Other Expenses,2,,360,361,2,global_Other Expenses,3,1,5dca9b524b8f118dc7330488
+1,Food & Beverage Expenses,2,,358,361,2,global_Food & Beverage Expenses,3,1,5dca9b524b8f118dc7330489
+1,Food & Beverage,2,,353,173,2,global_Food & Beverage,3,1,5dca9b524b8f118dc733048a
+1,Total Cost,2,,361,169,2,global_Total Cost,3,1,5dca9b524b8f118dc733048b
+1,NOI,2,,365,,2,global_NOI,3,1,5dca9b524b8f118dc733048c
+1,"Gains (losses) on extinguishment of debt, net",2,,366,207,2,"global_Gains (losses) on extinguishment of debt, net",3,1,5dca9b524b8f118dc733048d
+1,Management & Franchise fees,2,,363,169,2,global_Management & Franchise fees,3,1,5dca9b524b8f118dc733048e
+3,Passenger load factor,,,6117,,3,,0,1,5dca9b524b8f118dc733048f
+1,Acquisition and Terminated Transaction Costs,2,,364,169,2,global_Acquisition and Terminated Transaction Costs,3,1,5dca9b524b8f118dc7330490
+1,Land,1,,368,375,3,global_Land,3,1,5dca9b524b8f118dc7330491
+11,"Investment in hotel properties, net",1,,367,,,"global_Investment in hotel properties, net",,1,5dca9b524b8f118dc7330492
+1,Real Estate and Personal Property Taxes and Property Insurance,2,,362,169,2,global_Real Estate and Personal Property Taxes and Property Insurance,3,1,5dca9b524b8f118dc7330493
+1,Strategic capital & Development Expenses,2,,359,361,2,global_Strategic capital & Development Expenses,3,1,5dca9b524b8f118dc7330494
+1,Buildings and improvements,1,,369,375,3,global_Buildings and improvements,3,1,5dca9b524b8f118dc7330495
+1,Construction in progress,1,,373,375,3,global_Construction in progress,3,1,5dca9b524b8f118dc7330496
+1,Investment in properties,1,,375,,3,global_Investment in hotel properties,3,1,5dca9b524b8f118dc7330497
+1,Capital lease asset,1,,372,375,3,global_Capital lease asset,3,1,5dca9b524b8f118dc7330498
+1,Less: Accumulated depreciation,1,,376,,3,global_Less: Accumulated depreciation,3,1,5dca9b524b8f118dc7330499
+1,Due from related persons/Parties,1,,378,4,3,global_Due from related persons/Parties,3,1,5dca9b524b8f118dc733049a
+1,Other investment,1,,374,375,3,global_Other investment,3,1,5dca9b524b8f118dc733049b
+1,"Investment in properties, net",1,(375-376),377,4,3,"global_Investment in hotel properties, net",3,1,5dca9b524b8f118dc733049c
+1," Right-of-use asset, operating leases ",1,,371,375,3,"global_Right-of-use asset, operating leases",3,1,5dca9b524b8f118dc733049d
+1," Furniture, fixtures and equipment ",1,,370,375,3,"global_Furniture, fixtures and equipment",3,1,5dca9b524b8f118dc733049e
+1,Defferred Leasing Cost/Financing Cost,1,,379,4,3,global_Defferred Leasing Cost/Financing Cost,3,1,5dca9b524b8f118dc733049f
+1,Lease/Right-of-use assets,1,,380,4,3,global_Lease/Right-of-use assets,3,1,5dca9b524b8f118dc73304a0
+1,Investment in unconsolidated entity,1,,382,4,3,global_Investment in unconsolidated entity,3,1,5dca9b524b8f118dc73304a1
+1,Accrued interest,1,,387,11,3,global_Accrued interest,3,1,5dca9b524b8f118dc73304a2
+1,"Deferred revenues, Net",1,,386,11,3,"global_Deferred revenues, Net",3,1,5dca9b524b8f118dc73304a3
+1,Notes payable/Short Term Borrowing,1,,383,11,3,global_Notes payable/Short Term Borrowing,3,1,5dca9b524b8f118dc73304a4
+1,Security deposits and prepaid rent,1,,385,11,3,global_Security deposits and prepaid rent,3,1,5dca9b524b8f118dc73304a5
+1,Liabilities related to Assets held for sale,1,,418,11,3,global_Liabilities related to Assets held for sale,3,1,5dca9b524b8f118dc73304a6
+1,Dividends Payable,1,,388,11,3,global_Dividends Payable,3,1,5dca9b524b8f118dc73304a7
+1,"Intangible liabilities, net",1,,419,11,3,"global_Intangible liabilities, net",3,1,5dca9b524b8f118dc73304a8
+1,"Gain on sale of real estate, net",3,,390,94,2,"global_Gain on sale of real estate, net",3,1,5dca9b524b8f118dc73304a9
+1,Current Assets,3,,392,94,2,global_Current Assets,3,1,5dca9b524b8f118dc73304aa
+1,Current Liabilties,3,,393,94,2,global_Current Liabilties,3,1,5dca9b524b8f118dc73304ab
+11,Fund Flow from Operations(FFO),3,,394,,,global_Fund Flow from Operations(FFO),,1,5dca9b524b8f118dc73304ac
+11,Increase/Decrease in:,3,,391,,,global_Increase/Decrease in:,,1,5dca9b524b8f118dc73304ad
+1,Redeemable noncontrolling interests,1,,389,5,3,global_Redeemable noncontrolling interests,3,1,5dca9b524b8f118dc73304ae
+1,Due to related persons/Parties,1,,404,11,3,global_Due to related persons/Parties,3,1,5dca9b524b8f118dc73304af
+1,"Accounts Payable, Net",1,,384,11,3,"global_Accounts Payable, Net",3,1,5dca9b524b8f118dc73304b0
+1,Adjustments,3,,396,403,2,global_Adjustments,3,1,5dca9b524b8f118dc73304b1
+1,Government securities,1,,381,4,3,global_Government securities,3,1,5dca9b524b8f118dc73304b2
+1,Net income available to common stockholders,3,,395,403,2,global_Net income available to common stockholders,3,1,5dca9b524b8f118dc73304b3
+1,Adjustment related to JV's,3,,400,396,2,global_Adjustment related to JV's,3,1,5dca9b524b8f118dc73304b4
+1,Depreciation and amortization,3,,397,396,2,global_Depreciation and amortization,3,1,5dca9b524b8f118dc73304b5
+1,Impairment loss,3,,401,396,2,global_Impairment loss,3,1,5dca9b524b8f118dc73304b6
+1,Other FFO Adjustments,3,,402,396,2,global_(Gain) on sales of other assets,3,1,5dca9b524b8f118dc73304b7
+1,"(Gain) loss on sale of real estate, net",3,,398,396,2,"global_(Gain) loss on sale of real estate, net",3,1,5dca9b524b8f118dc73304b8
+1,(Gain) on sales of real estate investments,3,,399,396,2,global_(Gain) on sales of real estate investments,3,1,5dca9b524b8f118dc73304b9
+15,Basic AFFO Per share,3,(406/413),410,,2,global_Basic AFFO Per share,0,1,5dca9b524b8f118dc73304ba
+1,Adjustments of FFO to AFFO,3,,405,406,2,global_Adjustments of FFO to AFFO,3,1,5dca9b524b8f118dc73304bb
+15,Diluted AFFO per Share,3,(406/414),411,,2,global_Diluted AFFO per Share,0,1,5dca9b524b8f118dc73304bc
+11,Shares,3,,412,,,global_Shares,,1,5dca9b524b8f118dc73304bd
+7,Basic Shares,3,,413,,3,global_Basic Shares,3,1,5dca9b524b8f118dc73304be
+15,Diluted FFO per Share,3,(403/414),409,,2,global_Diluted FFO per Share,0,1,5dca9b524b8f118dc73304bf
+11,Per Share Data:,3,,407,,,global_Per Share Data:,,1,5dca9b524b8f118dc73304c0
+1,FFO attributable to common stockholders,3,,403,406,2,global_FFO attributable to common stockholders,3,1,5dca9b524b8f118dc73304c1
+7,Diluted Shares,3,,414,,3,global_Diluted Shares,3,1,5dca9b524b8f118dc73304c2
+15,RevPAR,2,,417,,3,global_RevPAR,0,1,5dca9b524b8f118dc73304c3
+1,AFFO,3,,406,,2,global_AFFO,3,1,5dca9b524b8f118dc73304c4
+3,Occupancy Rate%,2,,415,,3,global_Occupancy Rate%,0,1,5dca9b524b8f118dc73304c5
+15,Basic FFO Per share,3,(403/413),408,,2,global_Basic FFO Per share,0,1,5dca9b524b8f118dc73304c6
+1,Investment Securities,,,6128,,3,,3,1,5dca9b524b8f118dc73304c7
+15,ADR,2,,416,,3,global_ADR,0,1,5dca9b524b8f118dc73304c8
+1,Expenses,,,6129,,2,,3,1,5dca9b524b8f118dc73304c9
+1,Premium Earned,,,6130,,2,,3,1,5dca9b524b8f118dc73304ca
+1,Total Assets,1,,4,,3,global_TotalAssets,3,1,5dca9b524b8f118dc73304cb
+11,StockholdersEquity,1,,9,,,global_StockholdersEquity,,,5dca9b524b8f118dc73304cc
+1,StockholdersEquity,1,,10,5,3,global_StockholdersEquity,3,1,5dca9b524b8f118dc73304cd
+11,Assets,1,,2,,,global_Assets,,,5dca9b524b8f118dc73304ce
+1,Total Non Current Assets,1,,6,4,3,global_TotalNonCurrentAssets,3,1,5dca9b524b8f118dc73304cf
+11,Non Current Liabilities,1,,8,,,global_NonCurrentLiabilities,,,5dca9b524b8f118dc73304d0
+1,Total Liabilities,1,,11,5,3,global_TotalLiabilities,3,1,5dca9b524b8f118dc73304d1
+1,MarketableSecuritiesCurrent,1,,15,7,3,global_MarketableSecuritiesCurrent,3,1,5dca9b524b8f118dc73304d2
+1,Cash and CashEquivalents Short Term Investments,1,,14,7,3,global_CashandCashEquivalentsShortTermInvestments,3,1,5dca9b524b8f118dc73304d3
+1,Current Assets,1,,7,4,3,global_CurrentAssets,3,1,5dca9b524b8f118dc73304d4
+1,CurrentLiabilities,1,,13,11,3,global_CurrentLiabilities,3,1,5dca9b524b8f118dc73304d5
+1,Total Other Liabilities,1,,12,5,3,global_CommitmentsandContingencies,3,1,5dca9b524b8f118dc73304d6
+1,LiabilitiesStockholdersEquity,1,,5,,3,global_LiabilitiesStockholdersEquity,3,1,5dca9b524b8f118dc73304d7
+1,ReceivablesNet,1,,17,7,3,global_ReceivablesNet,3,1,5dca9b524b8f118dc73304d8
+1,Deferred Assets Current,1,,23,7,3,global_DeferredAssetsCurrent,3,1,5dca9b524b8f118dc73304d9
+11,Balance Sheet,1,,1,,,global_BalanceSheet,,,5dca9b524b8f118dc73304da
+1,InventoriesNet,1,,18,7,3,global_InventoriesNet,3,1,5dca9b524b8f118dc73304db
+1,OtherCurrentAssets,1,,25,7,3,global_OtherCurrentAssets,3,1,5dca9b524b8f118dc73304dc
+1,Current Portion of Boardcast Rights,1,,26,7,3,global_CurrentPortionofBoardcastRights,3,1,5dca9b524b8f118dc73304dd
+1,Accrued and Prepaid Expenses,1,,16,7,3,global_AccruedandPrepaidExpenses,3,1,5dca9b524b8f118dc73304de
+1,Deferred Income Taxes,1,,21,7,3,global_DeferredIncomeTaxes,3,1,5dca9b524b8f118dc73304df
+1,Interest Receivable,1,,24,7,3,global_InterestReceivable,3,1,5dca9b524b8f118dc73304e0
+1,Deferred Revenue,1,,22,7,3,global_DeferredRevenue,3,1,5dca9b524b8f118dc73304e1
+1,Income Tax Receivable,1,,20,7,3,global_IncomeTaxReceivable,3,1,5dca9b524b8f118dc73304e2
+1,Assets Held for Sale,1,,27,7,3,global_AssetsHeldforSale,3,1,5dca9b524b8f118dc73304e3
+1,Derivative Instruments/Assets,1,,19,7,3,global_DerivativeInstrumentsAssets,3,1,5dca9b524b8f118dc73304e4
+1,Goodwill,1,,31,6,3,global_Goodwill,3,1,5dca9b524b8f118dc73304e5
+1,Boardcast Rights,1,,32,6,3,global_BoardcastRights,3,1,5dca9b524b8f118dc73304e6
+1,Spectrum Licenses,1,,33,6,3,global_SpectrumLicenses,3,1,5dca9b524b8f118dc73304e7
+1,Deferred Income Tax,1,,37,6,3,global_DeferredIncomeTax,3,1,5dca9b524b8f118dc73304e8
+1,Deferred Revenue,1,,38,6,3,global_DeferredRevenue,3,1,5dca9b524b8f118dc73304e9
+1,Other Deferred Assets Non Current,1,,39,6,3,global_OtherDeferredAssetsNonCurrent,3,1,5dca9b524b8f118dc73304ea
+1,Derivative Instruments/Assets,1,,34,6,3,global_DerivativeInstrumentsAssets,3,1,5dca9b524b8f118dc73304eb
+1,Equity Method Investments/Unconsolidated Investees/ JV & Associates,1,,35,6,3,global_EquityMethodInvestmentsUnconsolidatedInvesteesJV&Associates,3,1,5dca9b524b8f118dc73304ec
+1,Pension and other postretirement Benefits,1,,36,6,3,global_PensionandotherpostretirementBenefits,3,1,5dca9b524b8f118dc73304ed
+1,"AccountsPayable, Net",1,,41,13,3,global_AccountsPayableNet,3,1,5dca9b524b8f118dc73304ee
+1,Income Taxes Payable,1,,42,13,3,global_IncomeTaxesPayable,3,1,5dca9b524b8f118dc73304ef
+1,Dividends Payable,1,,47,13,3,global_DividendsPayable,3,1,5dca9b524b8f118dc73304f0
+1,Other Long Term Assets,1,,40,6,3,global_OtherLongTermAssets,3,1,5dca9b524b8f118dc73304f1
+1,Taxes Other than Income Tax,1,,48,13,3,global_SalesTaxPayable,3,1,5dca9b524b8f118dc73304f2
+1,PropertyPlantEquipmentNet,1,,28,6,3,global_PropertyPlantEquipmentNet,3,1,5dca9b524b8f118dc73304f3
+1,LongTermInvestments,1,,29,6,3,global_LongTermInvestments,3,1,5dca9b524b8f118dc73304f4
+1,Accrued Expenses / Expenses Payable,1,,49,13,3,global_AccruedExpensesExpensesPayable,3,1,5dca9b524b8f118dc73304f5
+1,Current Portion Long Term Debt,1,,44,13,3,global_CurrentPortionLongTermDebt,3,1,5dca9b524b8f118dc73304f6
+1,"Intangible Assets, Net",1,,30,6,3,global_IntangibleAssetsNet,3,1,5dca9b524b8f118dc73304f7
+1,Accrued Taxes,1,,43,13,3,global_AccruedTaxes,3,1,5dca9b524b8f118dc73304f8
+1,Interest Payable,1,,46,13,3,global_InterestPayable,3,1,5dca9b524b8f118dc73304f9
+1,Derivative Instruments/Liablilities,1,,50,13,3,global_DerivativeInstrumentsLiablilities,3,1,5dca9b524b8f118dc73304fa
+1,Restricted Cash,1,,65,14,3,global_RestrictedCash,3,1,5dca9b524b8f118dc73304fb
+1,DebtCapitalLeaseObligationsCurrent,1,,51,13,3,global_DebtCapitalLeaseObligationsCurrent,3,1,5dca9b524b8f118dc73304fc
+1,Cash And Cash Equivalents,1,,64,14,3,global_CashAndCashEquivalents,3,1,5dca9b524b8f118dc73304fd
+1,Short-term investments,1,,66,14,3,global_Short-terminvestments,3,1,5dca9b524b8f118dc73304fe
+1,AccumulatedDepreciationAmortization,1,,68,28,3,global_AccumulatedDepreciationAmortization,3,1,5dca9b524b8f118dc73304ff
+1,Deferred Tax Liability,1,,56,11,3,global_DeferredTaxLiability,3,1,5dca9b524b8f118dc7330500
+1,Minority Interest Long Term Liabilities,1,,57,11,3,global_MinorityInterestLongTermLiabilities,3,1,5dca9b524b8f118dc7330501
+1,Accumulated Amortization,1,,70,30,3,global_AccumulatedAmortization,3,1,5dca9b524b8f118dc7330502
+1,"Program Boardcast Obligations, Net of current Portions",1,,58,11,3,global_ProgramBoardcastObligationsNetofcurrentPortions,3,1,5dca9b524b8f118dc7330503
+1,Common stock And Additional Paid In Capital,1,,73,62,3,global_CommonstockAndAdditionalPaidInCapital,3,1,5dca9b524b8f118dc7330504
+1,PropertyPlantEquipmentGross,1,,67,28,3,global_PropertyPlantEquipmentGross,3,1,5dca9b524b8f118dc7330505
+1,Treasury Stock,1,,76,62,3,global_TreasuryStock,3,1,5dca9b524b8f118dc7330506
+1,Other Reserves,1,,78,62,3,global_OtherReserves,3,1,5dca9b524b8f118dc7330507
+1,Common Stock,1,,79,73,3,global_CommonStock,3,1,5dca9b524b8f118dc7330508
+1,"Intangible Assets, Gross",1,,69,30,3,global_IntangibleAssetsGross,3,1,5dca9b524b8f118dc7330509
+1,"Debt Capital Lease Obligations ,  Net",1,,54,11,3,global_DebtCapitalLeaseObligationsNet,3,1,5dca9b524b8f118dc733050a
+1,CapitalLeaseObligationsCurrent,1,,71,51,3,global_CapitalLeaseObligationsCurrent,3,1,5dca9b524b8f118dc733050b
+1,Additional Paid in Capital,1,,80,73,3,global_AdditionalPaidinCapital,3,1,5dca9b524b8f118dc733050c
+1,MinorityInterest,1,,63,10,3,global_MinorityInterest,3,1,5dca9b524b8f118dc733050d
+11,Cash Flow,3,,81,,,global_CashFlow,,,5dca9b524b8f118dc733050e
+11,Cash Flow from Investing Activities,3,,86,,,global_CashFlowfromInvestingActivities,,,5dca9b524b8f118dc733050f
+1,NetIncreaseDecreaseCashCashEquivalents,3,,83,82,2,global_NetIncreaseDecreaseCashCashEquivalents,3,1,5dca9b524b8f118dc7330510
+11,Cash Flow from Financing Activities,3,,87,,,global_CashFlowfromFinancingActivities,,,5dca9b524b8f118dc7330511
+1,Retained Earnings,1,,75,62,3,global_RetainedEarnings,3,1,5dca9b524b8f118dc7330512
+1,ShortTermBorrowings,1,,72,51,3,global_ShortTermBorrowings,3,1,5dca9b524b8f118dc7330513
+1,CashAtBeginingOfPeriod,3,,84,82,3,global_CashAtBeginingOfPeriod,3,1,5dca9b524b8f118dc7330514
+1,Cash Flow from Operating Activities,3,,88,83,2,global_CashFlowfromOperatingActivities,3,1,5dca9b524b8f118dc7330515
+1,Cash Flow From Investing Activities,3,,89,83,2,global_CashFlowFromInvestingActivities,3,1,5dca9b524b8f118dc7330516
+1,Preferred Stock,1,,74,62,3,global_PreferredStock,3,1,5dca9b524b8f118dc7330517
+1,Cash Flow from Financing Activities,3,,90,83,2,global_CashFlowfromFinancingActivities,3,1,5dca9b524b8f118dc7330518
+1,Accumulated Comprehensive Income/Deficit,1,,77,62,3,global_AccumulatedComprehensiveIncomeDeficit,3,1,5dca9b524b8f118dc7330519
+11,Cash Flow from Operating Activities,3,,85,,,global_CashFlowfromOperatingActivities,,,5dca9b524b8f118dc733051a
+1,Working Capital Changes,3,,95,94,2,global_WorkingCapitalChanges,3,1,5dca9b524b8f118dc733051b
+1,EffectOfDiscontinuedOperations,3,,92,83,2,global_EffectOfDiscontinuedOperations,3,1,5dca9b524b8f118dc733051c
+1,Stock-based compensation expense,3,,98,94,2,global_Stock-basedcompensationexpense,3,1,5dca9b524b8f118dc733051d
+1,Deferred income taxes,3,,97,94,2,global_Deferredincometaxes,3,1,5dca9b524b8f118dc733051e
+1,EffectExchangeRateCashCashEquivalents,3,,91,83,2,global_EffectExchangeRateCashCashEquivalents,3,1,5dca9b524b8f118dc733051f
+1,Excess tax benefits from the exercise of stock options,3,,100,94,2,global_Excesstaxbenefitsfromtheexerciseofstockoptions,3,1,5dca9b524b8f118dc7330520
+1,Net Income,3,,93,88,2,global_NetIncome,3,1,5dca9b524b8f118dc7330521
+3,Currency-neutral growth %,,,6076,,3,,0,1,5dca9b524b8f118dc7330522
+1,Depreciation and Amortization,3,,96,94,2,global_DepreciationandAmortization,3,1,5dca9b524b8f118dc7330523
+1,Amortization of Loan Fees and Discount on Debt Issuance and Lease,3,,102,94,2,global_AmortizationofLoanFeesandDiscountonDebtIssuanceandLease,3,1,5dca9b524b8f118dc7330524
+3,Volume %,,,6071,,3,,0,1,5dca9b524b8f118dc7330525
+3,Reported Net Growth %,,,6078,,3,,0,1,5dca9b524b8f118dc7330526
+3,Other Impact %,,,6075,,3,,0,1,5dca9b524b8f118dc7330527
+1,Average Realized Price (before hedged) (per Boe/Mcf),,,6083,,3,,0,1,5dca9b524b8f118dc7330528
+16,Production Capacity (Boe),,,6084,,3,,2,1,5dca9b524b8f118dc7330529
+3,Utilization (%),,,6085,,3,,0,1,5dca9b524b8f118dc733052a
+1,Operating Expenses (per Boe),,,6086,,3,,0,1,5dca9b524b8f118dc733052b
+16,Loads,,,6088,,3,,0,1,5dca9b524b8f118dc733052c
+4,Revenue Per Day,,,6091,,3,,0,1,5dca9b524b8f118dc733052d
+1,Operating Expenses,,,6087,,3,,3,1,5dca9b524b8f118dc733052e
+4,Revenue Per Load,,,6089,,3,,0,1,5dca9b524b8f118dc733052f
+10,Rental Days,,,6090,,2,,0,1,5dca9b524b8f118dc7330530
+4,Average Length of Haul,,,6092,,3,,0,1,5dca9b524b8f118dc7330531
+3,Vehicle Utilization,,,6093,,3,,0,1,5dca9b524b8f118dc7330532
+16,"Volume(boe) (Gathering, Processing, Transportation, Marketing)",,,6095,,2,,2,1,5dca9b524b8f118dc7330533
+16,Volume in tons,,,6099,,3,,0,1,5dca9b524b8f118dc7330534
+1,Price/ton,,,6100,,3,,0,1,5dca9b524b8f118dc7330535
+16,"Volume(boe/d) (Gathering, Processing, Transportation, Marketing)",,,6096,,3,,2,1,5dca9b524b8f118dc7330536
+10,Number of Vehicle,,,6094,,3,,0,1,5dca9b524b8f118dc7330537
+16,Production Volume (Boe),,,6079,,3,,2,1,5dca9b524b8f118dc7330538
+13,Volume(WH),,,6097,,2,,3,1,5dca9b524b8f118dc7330539
+1,Net Non Interest Income,,,6103,,2,,3,1,5dca9b524b8f118dc733053a
+10,Vehicle Unit Sales,,,6105,,2,,0,1,5dca9b524b8f118dc733053b
+15,Book Value Per Share,2,(298/164),6107,,2,global_BookValuePerShare,0,1,5dca9b524b8f118dc733053c
+1,Gross Profit (per unit),,,6109,,3,,0,1,5dca9b524b8f118dc733053d
+1,Same Stores Revenue,,,6110,,2,,3,1,5dca9b524b8f118dc733053e
+16,Volume(Btu),,,6098,,2,,3,1,5dca9b524b8f118dc733053f
+1,Net Interest Income,,,6101,,2,,3,1,5dca9b524b8f118dc7330540
+1,Operating Income,2,,222,,2,global_OperatingIncome,3,1,5dca9b524b8f118dc7330541
+1,Loans,,,6104,,3,,3,1,5dca9b524b8f118dc7330542
+1,Average Selling Price (per unit),,,6108,,3,,0,1,5dca9b524b8f118dc7330543
+10,Same Stores Vehicle Unit Sales,,,6111,,2,,0,1,5dca9b524b8f118dc7330544
+1,Average Realized Price (after hedged) (per Boe/Mcf),,,6082,,3,,0,1,5dca9b524b8f118dc7330545
+1,Operating Expenses,2,,223,,2,global_OperatingExpenses,3,1,5dca9b524b8f118dc7330546
+1,Provision for credit losses,2,,225,,2,global_Provisionforcreditlosses,3,1,5dca9b524b8f118dc7330547
+1,Total Income,2,(222-223),224,,2,global_TotalIncome,3,1,5dca9b524b8f118dc7330548
+1,Total Income after provision for credit losses,2,(224-225),226,,2,global_TotalIncomeafterprovisionforcreditlosses,3,1,5dca9b524b8f118dc7330549
+16,Average Production Volume (Boe/d),,,6081,,3,,2,1,5dca9b524b8f118dc733054a
+1,Non Operating  Expenses,2,,229,,2,global_NonOperatingExpenses,3,1,5dca9b524b8f118dc733054b
+1,Interest-earning deposits with banks,1,,250,252,3,global_Interest-earningdepositswithbanks,3,1,5dca9b524b8f118dc733054c
+1,Total revenue (operating income),2,(224+227),228,,2,global_Totalrevenue(operatingincome),3,1,5dca9b524b8f118dc733054d
+1,Non Operating  income,2,,227,,2,global_NonOperatingincome,3,1,5dca9b524b8f118dc733054e
+1,Cash and due from banks,1,,249,252,3,global_Cashandduefrombanks,3,1,5dca9b524b8f118dc733054f
+11,Debt securities,1,,253,,,global_Debtsecurities,,1,5dca9b524b8f118dc7330550
+1,"Trading, at fair value ",1,,254,257,3,"global_Trading,atfairvalue",3,1,5dca9b524b8f118dc7330551
+3,Net Interest Margin(%),,,6102,,2,,0,1,5dca9b524b8f118dc7330552
+1,Average Interest Bearing Liabilities,1,,343,,3,global_AverageInterestBearingLiabilities,3,1,5dca9b524b8f118dc7330553
+1,Gross Operating Assets,1,,260,262,3,global_GrossOperatingAssets,3,1,5dca9b524b8f118dc7330554
+1,Non Performing Loans,1,,350,,3,global_NonPerformingLoans,3,1,5dca9b524b8f118dc7330555
+1,Same Store Average Selling Price (Per Unit),,,6112,,3,,0,1,5dca9b524b8f118dc7330556
+1,"Available-for-sale, at fair value ",1,,255,257,3,"global_Available-for-sale,atfairvalue",3,1,5dca9b524b8f118dc7330557
+1,Current Portion Boardcast Rights Payable,1,,45,13,3,global_CurrentPortionBoardcastRightsPayable,3,1,5dca9b524b8f118dc7330558
+11,Income tax,2,,231,,,global_Incometax,,1,5dca9b524b8f118dc7330559
+1,Deferal of Unearned Revenue/Deferred Revenue,3,,219,94,2,global_DeferalofunearnedRevenue,3,1,5dca9b524b8f118dc733055a
+11,Liabilities,1,,275,,,global_Liabilities,,1,5dca9b524b8f118dc733055b
+15,Tangible Book Value Per Share,2,,245,,2,global_TangibleBookValuePerShare,0,1,5dca9b524b8f118dc733055c
+1,Financial assets held under resale or Repurchase Agreement,1,,258,4,3,global_FinancialassetsheldunderresaleorRepurchaseAgreement,3,1,5dca9b524b8f118dc733055d
+1,Financial assets at Amortised Cost,1,,266,4,3,global_FinancialassetsatAmortisedCost,3,1,5dca9b524b8f118dc733055e
+1,Prepaid expenses,1,,270,4,3,global_Prepaidexpenses,3,1,5dca9b524b8f118dc733055f
+1,Derivative financial instruments,1,,259,4,3,global_Derivativefinancialinstruments,3,1,5dca9b524b8f118dc7330560
+1,Deferred insurance policy acquisition costs,1,,272,4,3,global_Deferredinsurancepolicyacquisitioncosts,3,1,5dca9b524b8f118dc7330561
+1,Deferred tax assets,1,,268,4,3,global_Deferredtaxassets,3,1,5dca9b524b8f118dc7330562
+1,Goodwill and intangible assets,1,,263,4,3,global_Goodwillandintangibleassets,3,1,5dca9b524b8f118dc7330563
+1,"Total cash, cash equivalents & Short Term Investment",1,,252,4,3,"global_Totalcash,cashequivalents,andrestrictedcash&ShortTermInvestment",3,1,5dca9b524b8f118dc7330564
+1,Financial assets at FV,1,,265,4,3,global_FinancialassetsatFV,3,1,5dca9b524b8f118dc7330565
+1,Investment in securities (i.e. financial investments),1,,267,4,3,global_Investmentinsecurities(i.e.financialinvestments),3,1,5dca9b524b8f118dc7330566
+1,"Deposits, Net",1,,278,11,3,"global_Deposits,Net",3,1,5dca9b524b8f118dc7330567
+1,Short-term borrowings,1,,279,11,3,global_Short-termborrowings,3,1,5dca9b524b8f118dc7330568
+1,Deposits and balances from banks and other FI,1,,276,278,3,global_DepositsandbalancesfrombanksandotherFI,3,1,5dca9b524b8f118dc7330569
+1,Other Deposits,1,,277,278,3,global_OtherDeposits,3,1,5dca9b524b8f118dc733056a
+1,Financial assets sold under repurchase agreements,1,,281,11,3,global_Financialassetssoldunderrepurchaseagreements,3,1,5dca9b524b8f118dc733056b
+1,Accrued expenses and other liabilities,1,,282,11,3,global_Accruedexpensesandotherliabilities,3,1,5dca9b524b8f118dc733056c
+1,Loss Reserve,1,,271,4,3,global_LossReserve,3,1,5dca9b524b8f118dc733056d
+1,Customer and other receivables,1,,269,4,3,global_Customerandotherreceivables,3,1,5dca9b524b8f118dc733056e
+1,Other assets,1,,273,4,3,global_Otherassets,3,1,5dca9b524b8f118dc733056f
+1,Unearned Revenue/Premium,1,,283,11,3,global_UnearnedRevenue/Premium,3,1,5dca9b524b8f118dc7330570
+11,Cash flows from operating activities:,3,,302,,,global_Cashflowsfromoperatingactivities:,3,1,5dca9b524b8f118dc7330571
+1,Loss Reseve,1,,287,11,3,global_LossReseve,3,1,5dca9b524b8f118dc7330572
+1,Provision for credit losses,3,,305,94,2,global_Provisionforcreditlosses,3,1,5dca9b524b8f118dc7330573
+1,Deferred tax liabilities,1,,285,11,3,global_Deferredtaxliabilities,3,1,5dca9b524b8f118dc7330574
+1,Derivative liabilities,1,,284,11,3,global_Derivativeliabilities,3,1,5dca9b524b8f118dc7330575
+1,"Depreciation, amortization and accretion",3,,306,94,2,"global_Depreciation,amortizationandaccretion",3,1,5dca9b524b8f118dc7330576
+11,Debt and Equity Securities:,3,,309,,,global_DebtandEquitySecurities:,3,1,5dca9b524b8f118dc7330577
+11,Net change in:,3,,313,,,global_Netchangein:,3,1,5dca9b524b8f118dc7330578
+1,Net change in Debt and Equity Secuirites,3,,312,94,2,global_NetchangeinDebtandEquitySecuirites,3,1,5dca9b524b8f118dc7330579
+1,"Held for sale, Fair value",3,,311,312,2,"global_Heldforsale,Fairvalue",3,1,5dca9b524b8f118dc733057a
+1,Loans held-for-sale,3,,314,317,2,global_Loansheld-for-sale,3,1,5dca9b524b8f118dc733057b
+1,Change in Fair value,3,,308,94,2,global_ChangeinFairvalue,3,1,5dca9b524b8f118dc733057c
+1,Financial liabilities at FV,1,,286,11,3,global_FinancialliabilitiesatFV,3,1,5dca9b524b8f118dc733057d
+1,Held-to-Maturity,3,,310,312,2,global_Held-to-Maturity,3,1,5dca9b524b8f118dc733057e
+1,Proceeds from sales and paydowns of loans originally classified as held for sale and instruments from related securitization activities,3,,316,317,2,global_Proceedsfromsalesandpaydownsofloansoriginallyclassifiedasheldforsaleandinstrumentsfromrelatedsecuritizationactivities,3,1,5dca9b524b8f118dc733057f
+1,Net Change Loans held-for-sale,3,,317,94,2,global_NetChangeLoansheld-for-sale,3,1,5dca9b524b8f118dc7330580
+1,Trading securities,3,,318,94,2,global_Tradingsecurities,3,1,5dca9b524b8f118dc7330581
+1,Originations and purchases,3,,315,317,2,global_Originationsandpurchases,3,1,5dca9b524b8f118dc7330582
+1,Non cash Cost of stock plans,3,,320,94,2,global_NoncashCostofstockplans,3,1,5dca9b524b8f118dc7330583
+1,Deferred income taxes,3,,321,94,2,global_Deferredincometaxes,3,1,5dca9b524b8f118dc7330584
+1,Other accrued expenses and liabilities,3,,323,94,2,global_Otheraccruedexpensesandliabilities,3,1,5dca9b524b8f118dc7330585
+1,Gain on sale of loans,3,,319,94,2,global_Gainonsaleofloans,3,1,5dca9b524b8f118dc7330586
+1,Other assets,3,,324,94,2,global_Otherassets,3,1,5dca9b524b8f118dc7330587
+11,Balance Sheet - Other Information,1,,333,,,global_OtherInformation,,1,5dca9b524b8f118dc7330588
+1,Tier 1 capital,1,,337,339,3,global_Tier1capital,3,1,5dca9b524b8f118dc7330589
+1,Tier 2 capital,1,,338,339,3,global_Tier2capital,3,1,5dca9b524b8f118dc733058a
+1,Total capital,1,,339,,3,global_Totalcapital,3,1,5dca9b524b8f118dc733058b
+1,Average Interest Earning Assets,1,,342,,3,global_AverageInterestEarningAssets,3,1,5dca9b524b8f118dc733058c
+1,Adjusted on-and off-B/S assets,1,,340,,3,global_Adjustedon-andoff-B/Sassets,3,1,5dca9b524b8f118dc733058d
+1,Demand/current deposits,1,,345,348,3,global_Demand/currentdeposits,3,1,5dca9b524b8f118dc733058e
+1,Saving deposits,1,,346,348,3,global_Savingdeposits,3,1,5dca9b524b8f118dc733058f
+11,Capital Calculation,1,,334,,,global_CapitalCalculation,,1,5dca9b524b8f118dc7330590
+11,Deposits,1,,344,,,global_Deposits,,1,5dca9b524b8f118dc7330591
+1,Derivative assets and liabilities,3,,322,94,2,global_Derivativeassetsandliabilities,3,1,5dca9b524b8f118dc7330592
+1,Total Risk-Weighted Assets,1,,349,,3,global_Totalrisk-weightedassets,3,1,5dca9b524b8f118dc7330593
+1,Same Store Gross Profit,,,6106,,2,,3,1,5dca9b524b8f118dc7330594
+11,Average Balance Sheet,1,,341,,,global_AverageBalanceSheet,,1,5dca9b524b8f118dc7330595
+1,Common Equity Tier 1 capital,1,,335,337,3,global_CommonEquitytier1capital,3,1,5dca9b524b8f118dc7330596
+1,Time or fixed term deposits,1,,347,348,3,global_Timeorfixedtermdeposits,3,1,5dca9b524b8f118dc7330597
+1,Total Deposits,1,,348,,3,global_Totaldeposits,3,1,5dca9b524b8f118dc7330598
+10,Revenue passenger miles (RPMs),,,6115,,2,,3,1,5dca9b524b8f118dc7330599
+1,Additional Tier 1 capital,1,,336,337,3,global_AdditionalTier1capital,3,1,5dca9b524b8f118dc733059a
+1,Total revenue per available seat mile (TRASM/RASM) (cents),,,6120,,3,,0,1,5dca9b524b8f118dc733059b
+10,Available seat miles (ASMs),,,6116,,2,,3,1,5dca9b524b8f118dc733059c
+1,Cost per available seat mile (CASM) (cents),,,6121,,3,,0,1,5dca9b524b8f118dc733059d
+1,Same Store Gross Profit Per Unit,,,6113,,3,,0,1,5dca9b524b8f118dc733059e
+10,Passengers,,,6114,,2,,2,1,5dca9b524b8f118dc733059f
+1,"Cost per available seat mile (CASM), Ex-fuel (cents)",,,6123,,3,,0,1,5dca9b524b8f118dc73305a0
+1,Passenger revenue per available seat mile (PRASM) (cents),,,6119,,3,,0,1,5dca9b524b8f118dc73305a1
+1,Passenger mile yield (cents),,,6118,,3,,0,1,5dca9b524b8f118dc73305a2
+10,Consolidated Subscribers,,,6131,,3,,0,1,5dca9b524b8f118dc73305a3
+1,Realized price,,,6132,,3,,0,1,5dca9b524b8f118dc73305a4
+1,Cash unit cost,,,6133,,3,,0,1,5dca9b524b8f118dc73305a5
+1,AISC,,,6134,,3,,0,1,5dca9b524b8f118dc73305a6
+14,Production Volume,,,6135,,2,,0,1,5dca9b524b8f118dc73305a7
+14,Sales Volume,,,6136,,2,,0,1,5dca9b524b8f118dc73305a8
+10,Carloads (k),,,6137,,2,,2,1,5dca9b524b8f118dc73305a9
+10,Revenue ton miles (RTM) (mn),,,6138,,2,,3,1,5dca9b524b8f118dc73305aa
+1,Freight revenue per carload ($),,,6139,,3,,0,1,5dca9b524b8f118dc73305ab
+1,Freight revenue per RTM (cents),,,6140,,3,,0,1,5dca9b524b8f118dc73305ac
+10,Gross ton miles (GTMs) (mn),,,6141,,2,,3,1,5dca9b524b8f118dc73305ad
+10,Train miles (k),,,6142,,2,,2,1,5dca9b524b8f118dc73305ae
+10,Average Terminal dwell (hrs),,,6143,,3,,0,1,5dca9b524b8f118dc73305af
+10,Average train speed (mph),,,6144,,3,,0,1,5dca9b524b8f118dc73305b0
+10,Fuel efficiency,,,6145,,3,,0,1,5dca9b524b8f118dc73305b1
+10,GTMs per average employees (mn),,,6146,,3,,0,1,5dca9b524b8f118dc73305b2
+10,Average Employees,,,6147,,3,,0,1,5dca9b524b8f118dc73305b3
+1,Fuel expense per ASM (cents),,,6122,,3,,0,1,5dca9b524b8f118dc73305b4
+1,Average price per fuel gallon,,,6125,,3,,0,1,5dca9b524b8f118dc73305b5
+16,Fuel gallons consumed,,,6124,,2,,3,1,5dca9b524b8f118dc73305b6
+10,Total locomotives (Owned & Leased),,,6149,,2,,0,1,5dca9b524b8f118dc73305b7
+10,Rooms,,,6152,,3,,0,1,5dca9b524b8f118dc73305b8
+10,Hotels,,,6153,,3,,0,1,5dca9b524b8f118dc73305b9
+10,Properties,,,6154,,3,,0,1,5dca9b524b8f118dc73305ba
+1,RevPAR Comparable Company-Operated,,,6155,,3,,0,1,5dca9b524b8f118dc73305bb
+3,Occupancy Comparable Company-Operated,,,6156,,3,,0,1,5dca9b524b8f118dc73305bc
+1,ADR Comparable Company-Operated,,,6157,,3,,0,1,5dca9b524b8f118dc73305bd
+1,RevPAR Comparable System wide,,,6158,,3,,0,1,5dca9b524b8f118dc73305be
+3,Occupancy Comparable System wide,,,6159,,3,,0,1,5dca9b524b8f118dc73305bf
+1,ADR Comparable System wide,,,6160,,3,,0,1,5dca9b524b8f118dc73305c0
+1,Total Debt,1,(44+53+51+54),420,,3,global_debt,3,1,5dca9b524b8f118dc73305c1
+1,NOI(Net Operating Income),,,6161,,2,,3,1,5dca9b524b8f118dc73305c2
+1,Expenses,,,6162,,2,,3,1,5dca9b524b8f118dc73305c3
+3,Occupancy,,,6163,,3,,0,1,5dca9b524b8f118dc73305c4
+1,Capital Expenditure,,,6164,,2,,3,1,5dca9b524b8f118dc73305c5
+10,Average Subscribers,,,6165,,3,,0,1,5dca9b524b8f118dc73305c6
+10,Workforce (EOP),,,6148,,3,,0,1,5dca9b524b8f118dc73305c7
+10,Net additions (losses),,,6167,,2,,0,1,5dca9b524b8f118dc73305c8
+1,ARPU,,,6168,,3,,0,1,5dca9b524b8f118dc73305c9
+10,ABPU,,,6169,,3,,0,1,5dca9b524b8f118dc73305ca
+1,ARPA,,,6170,,3,,0,1,5dca9b524b8f118dc73305cb
+10,ABPA,,,6171,,3,,0,1,5dca9b524b8f118dc73305cc
+10,Intermodal equipment (Owned & Leased),,,6151,,2,,0,1,5dca9b524b8f118dc73305cd
+3,Monthly Subscriber Churn Rate,,,6172,,3,,0,1,5dca9b524b8f118dc73305ce
+10,EoP connections per account,,,6173,,3,,0,1,5dca9b524b8f118dc73305cf
+10,Primary Service Units (PSUs / RGU's),,,6174,,3,,0,1,5dca9b524b8f118dc73305d0
+10,Customer Relationships,,,6175,,3,,0,1,5dca9b524b8f118dc73305d1
+1,Asset Under Management,,,6177,,3,,3,1,5dca9b524b8f118dc73305d2
+1,Monthly Revenue per Customer,,,6176,,3,,0,1,5dca9b524b8f118dc73305d3
+10,End of period subscribers,,,6166,,3,,0,1,5dca9b524b8f118dc73305d4
+10,Total freight cars (Owned & Leased),,,6150,,2,,0,1,5dca9b524b8f118dc73305d5
+1,Avg. Asset Under Management,,,6178,,3,,3,1,5dca9b524b8f118dc73305d6

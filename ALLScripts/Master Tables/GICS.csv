@@ -1,0 +1,304 @@
+GICSID,GICSCode,GICSTypeID,ParentCode,ParentType,Description
+2,10,1,0,0,Energy
+3,15,1,0,0,Materials
+4,20,1,0,0,Industrials
+5,25,1,0,0,Consumer Discretionary
+6,30,1,0,0,Consumer Staples
+7,35,1,0,0,Health Care
+8,40,1,0,0,Financials
+9,45,1,0,0,Information Technology
+10,50,1,0,0,Communication Services
+11,55,1,0,0,Utilities
+12,1010,2,10,1,Energy
+13,1510,2,15,1,Materials
+14,2010,2,20,1,Capital Goods
+15,2020,2,20,1,Commercial Services & Supplies
+16,2030,2,20,1,Transportation
+17,2510,2,25,1,Automobiles & Components
+18,2520,2,25,1,Consumer Durables & Apparel
+19,2530,2,25,1,Consumer Services
+20,2540,2,25,1,Media
+21,2550,2,25,1,Retailing
+22,3010,2,25,1,Food & Staples Retailing
+23,3020,2,30,1,"Food Food, Beverage & Tobacco"
+24,3030,2,30,1,Household & Personal Products
+25,3510,2,35,1,Health Care Equipment & Services
+26,3520,2,35,1,Pharmaceuticals & Biotechnology & Life Sciences
+27,4010,2,40,1,Banks
+28,4020,2,40,1,Diversified Financials
+29,4030,2,40,1,Insurance
+30,4040,2,40,1,Real Estate
+31,4510,2,45,1,Software & Services
+32,4520,2,45,1,Technology Hardware & Equipment
+33,4530,2,45,1,Semiconductors & Semiconductor Equipment
+34,5010,2,50,1,Telecommunication Services
+35,5510,2,55,1,Utilities
+36,101010,3,1010,2,Energy Equipment & Services
+37,101020,3,1010,2,"Oil, Gas & Consumable Fuels"
+38,151010,3,1510,2,Chemicals
+39,151020,3,1510,2,Construction Materials
+40,151030,3,1510,2,Containers & Packaging
+41,151040,3,1510,2,Metals & Mining
+42,151050,3,1510,2,Paper & Forest Products
+43,201010,3,2010,2,Aerospace & Defense
+44,201020,3,2010,2,Building Products
+45,201030,3,2010,2,Construction & Engineering
+46,201040,3,2010,2,Electrical Equipment
+47,201050,3,2010,2,Industrial Conglomerates
+48,201060,3,2010,2,Machinery
+49,201070,3,2010,2,Trading Companies & Distributors
+50,202010,3,2020,2,Commercial Services & Supplies
+51,203010,3,2030,2,Air Freight & Logistics
+52,203020,3,2030,2,Airlines
+53,203030,3,2030,2,Marine
+54,203040,3,2030,2,Road & Rail
+55,203050,3,2030,2,Transportation Infrastructure
+56,251010,3,2510,2,Auto Components
+57,251020,3,2510,2,Automobiles
+58,252010,3,2520,2,Household Durables
+59,252020,3,2520,2,Leisure Equipment & Products
+60,252030,3,2520,2,"Textiles, Apparel & Luxury Goods"
+61,253010,3,2530,2,"Hotels, Restaurants & Leisure"
+62,253020,3,2530,2,Diversified Consumer Services
+63,254010,3,2540,2,Media
+64,255010,3,2550,2,Distributors
+65,255020,3,2550,2,Internet & Direct Marketing Retail
+66,255030,3,2550,2,Multiline Retail
+67,255040,3,2550,2,Specialty Retail
+68,301010,3,3010,2,Food & Staples Retailing
+69,302010,3,3020,2,Beverages
+70,302020,3,3020,2,Food Products
+71,302030,3,3020,2,Tobacco
+72,303010,3,3030,2,Household Products
+73,303020,3,3030,2,Personal Products
+74,351010,3,3510,2,Health Care Equipment & Supplies
+75,351020,3,3510,2,Health Care Providers & Services
+76,352010,3,3520,2,Biotechnology
+77,352020,3,3520,2,Pharmaceuticals
+78,352030,3,3520,2,Life Sciences Tools & Services
+79,401010,3,4010,2,Banks
+80,401020,3,4010,2,Thrifts & Mortgage Finance
+81,402010,3,4020,2,Diversified Financial Services
+82,402020,3,4020,2,Consumer Finance
+83,402030,3,4020,2,Capital Markets
+84,403010,3,4030,2,Insurance
+85,404010,3,4040,2,Real Estate
+86,404020,3,4040,2,Real Estate Investment Trusts
+87,404030,3,4040,2,Real Estate Management & Development
+88,451010,3,4510,2,Internet Software & Services
+89,451020,3,4510,2,IT Services
+90,451030,3,4510,2,Software
+91,452010,3,4520,2,Communications Equipment
+92,452020,3,4520,2,"Technology Hardware, Storage & Peripherals"
+93,452030,3,4520,2,Electronic Equipment & Instruments
+94,452040,3,4520,2,Office Electronics
+95,452050,3,4520,2,Semiconductor Equipment & Products -- Discontinued effective 04/30/2003.
+96,453010,3,4530,2,Semiconductors & Semiconductor Equipment
+97,501010,3,5010,2,Diversified Telecommunication Services
+98,501020,3,5010,2,Wireless Telecommunication Services
+99,551010,3,5510,2,Electric Utilities
+100,551020,3,5510,2,Gas Utilities
+101,551030,3,5510,2,Multi-Utilities
+102,551040,3,5510,2,Water Utilities
+103,551050,3,5510,2,Independent Power Producers & Energy Traders
+104,10101010,4,101010,3,Oil & Gas Drilling
+105,10101020,4,101010,3,Oil & Gas Equipment & Services
+106,10102010,4,101020,3,Integrated Oil & Gas
+107,10102020,4,101020,3,Oil & Gas Exploration & Production
+108,10102030,4,101020,3,Oil & Gas Refining & Marketing
+109,10102040,4,101020,3,Oil & Gas Storage & Transportation
+110,10102050,4,101020,3,Coal & Consumable Fuels
+111,15101010,4,151010,3,Commodity Chemicals
+112,15101020,4,151010,3,Diversified Chemicals
+113,15101030,4,151010,3,Fertilizers & Agricultural Chemicals
+114,15101040,4,151010,3,Industrial Gases
+115,15101050,4,151010,3,Specialty Chemicals
+116,15102010,4,151020,3,Construction Materials
+117,15103010,4,151030,3,Metal & Glass Containers
+118,15103020,4,151030,3,Paper Packaging
+119,15104010,4,151040,3,Aluminum
+120,15104020,4,151040,3,Diversified Metals & Mining
+121,15104030,4,151040,3,Gold
+122,15104040,4,151040,3,Precious Metals & Minerals
+123,15104050,4,151040,3,Steel
+124,15105010,4,151050,3,Forest Products
+125,15105020,4,151050,3,Paper Products
+126,20101010,4,201010,3,Aerospace & Defense
+127,20102010,4,201020,3,Building Products
+128,20103010,4,201030,3,Construction & Engineering
+129,20104010,4,201040,3,Electrical Components & Equipment
+130,20104020,4,201040,3,Heavy Electrical Equipment
+131,20105010,4,201050,3,Industrial Conglomerates
+132,20106010,4,201060,3,Construction & Farm Machinery & Heavy Trucks
+133,20106020,4,201060,3,Industrial Machinery
+134,20107010,4,201070,3,Trading Companies & Distributors
+135,20201010,4,202010,3,Commercial Printing
+136,20201020,4,202010,3,Data Processing Services  -- Discontinued effective 04/30/2003.
+137,20201030,4,202010,3,Diversified Commercial & Professional Services
+138,20202010,4,202010,3,Human Resource & Employment Services
+139,20201050,4,202010,3,Environmental & Facilities Services
+140,20201060,4,202010,3,Office Services & Supplies
+141,20301010,4,203010,3,Air Freight & Logistics
+142,20302010,4,203020,3,Airlines
+143,20303010,4,203030,3,Marine
+144,20304010,4,203040,3,Railroads
+145,20304020,4,203040,3,Trucking
+146,20305010,4,203050,3,Airport Services
+147,20305020,4,203050,3,Highways & Railtracks
+148,20305030,4,203050,3,Marine Ports & Services
+149,25101010,4,251010,3,Auto Parts & Equipment
+150,25101020,4,251010,3,Tires & Rubber
+151,25102010,4,251020,3,Automobile Manufacturers
+152,25102020,4,251020,3,Motorcycle Manufacturers
+153,25201010,4,252010,3,Consumer Electronics
+154,25201020,4,252010,3,Home Furnishings
+155,25201030,4,252010,3,Homebuilding
+156,25201040,4,252010,3,Household Appliances
+157,25201050,4,252010,3,Housewares & Specialties
+158,25202010,4,252020,3,Leisure Products
+159,25202020,4,252020,3,Photographic Products
+160,25203010,4,252030,3,"Apparel, Accessories & Luxury Goods"
+161,25203020,4,252030,3,Footwear
+162,25203030,4,252030,3,Textiles
+163,25301010,4,253010,3,Casinos & Gaming
+164,25301020,4,253010,3,"Hotels, Resorts & Cruise Lines"
+165,25301030,4,253010,3,Leisure Facilities
+166,25301040,4,253010,3,Restaurants
+167,25302010,4,253020,3,Education Services
+168,25302020,4,253020,3,Specialized Consumer Services
+169,25401010,4,254010,3,Advertising
+170,25401020,4,254010,3,Broadcasting & Cable TV
+171,25401025,4,254010,3,Cable and satellite
+172,25401030,4,254010,3,Movies & Entertainment
+173,25401040,4,254010,3,Publishing
+174,25501010,4,255010,3,Distributors
+175,25502010,4,255020,3,Catalog Retail
+176,25502020,4,255020,3,Internet & Direct Marketing Retail
+177,25503010,4,255030,3,Department Stores
+178,25503020,4,255030,3,General Merchandise Stores
+179,25504010,4,255040,3,Apparel Retail
+180,25504020,4,255040,3,Computer & Electronics Retail
+181,25504030,4,255040,3,Home Improvement Retail
+182,25504040,4,255040,3,Specialty Stores
+183,25504050,4,255040,3,Automotive Retail
+184,25504060,4,255040,3,Homefurnishing Retail
+185,30101010,4,301010,3,Drug Retail
+186,30101020,4,301010,3,Food Distributors
+187,30101030,4,301010,3,Food Retail
+188,30101040,4,301010,3,Hypermarkets & Super Centers
+189,30201010,4,302010,3,Brewers
+190,30201020,4,302010,3,Distillers & Vintners
+191,30201030,4,302010,3,Soft Drinks
+192,30202010,4,302020,3,Agricultural Products
+193,30202020,4,302020,3,"Meat, Poultry & Fish (discontinued, effective March 28 2002)"
+194,30202030,4,302020,3,Packaged Foods & Meats
+195,30203010,4,302030,3,Tobacco
+196,30301010,4,303010,3,Household Products
+197,30302010,4,303020,3,Personal Products
+198,35101010,4,351010,3,Health Care Equipment
+199,35101020,4,351010,3,Health Care Supplies
+200,35102010,4,351020,3,Health Care Distributors
+201,35102015,4,351020,3,Health Care  Services
+202,35102020,4,351020,3,Health Care Facilities
+203,35102030,4,351020,3,Managed Health Care
+204,35103010,3,3510,2,Healthcare Technology
+205,35201010,4,352010,3,Biotechnology
+206,35202010,4,352020,3,Pharmaceuticals
+207,35203010,4,352030,3,Life Sciences Tools & Services
+208,40101010,4,401010,3,Diversified Banks
+209,40101015,4,401010,3,Regional Banks
+210,40102010,4,401020,3,Thrifts & Mortgage Finance
+211,40201010,4,402010,3,Consumer Finance -- Discontinued effective 04/30/2003.
+212,40201020,4,402010,3,Other Diversified Financial Services
+213,40201030,4,402010,3,Multi-Sector Holdings
+214,40201040,4,402010,3,Specialized Finance
+215,40202010,4,402020,3,Consumer Finance
+216,40203010,4,402030,3,Asset Management & Custody Banks
+217,40203020,4,402030,3,Investment Banking & Brokerage
+218,40203030,4,402030,3,Diversified Capital Markets
+219,40301010,4,403010,3,Insurance Brokers
+220,40301020,4,403010,3,Life & Health Insurance
+221,40301030,4,403010,3,Multi-line Insurance
+222,40301040,4,403010,3,Property & Casualty Insurance
+223,40301050,4,403010,3,Reinsurance
+224,40401010,4,404010,3,Real Estate Investment Trusts
+225,40401020,4,404010,3,Real Estate Management & Development
+226,40402010,4,404020,3,Diversified REIT's
+227,40402020,4,404020,3,Diversified REITs
+228,40402030,4,404020,3,Mortgage REITs
+229,40402040,4,404020,3,Office REITs
+230,40402050,4,404020,3,Residential REITs
+231,40402060,4,404020,3,Retail REITs
+232,40402070,4,404020,3,Specialised REITs
+233,40403010,4,404030,3,Diversified Real Estate Activities
+234,40403020,4,0,0,Real Estate Operating Companies
+235,40403030,4,0,0,Real Estate Development
+236,40403040,4,0,0,Real Estate Services
+237,45101010,4,451010,3,Internet Software & Services
+238,45102010,4,451020,3,IT Consulting & Other Services
+239,45102020,4,451020,3,Data Processing & Outsourced Services
+240,45103010,4,451030,3,Application Software
+241,45103020,4,451030,3,Systems Software
+242,45103030,4,451030,3,Home Entertainment Software
+243,45201010,4,452010,3,Networking Equipment -- Discontinued effective 04/30/2003.
+244,45201020,4,452010,3,Communications Equipment
+245,45202010,4,452020,3,Computer Hardware
+246,45202020,4,452020,3,Computer Storage & Peripherals
+247,45203010,4,452030,3,Electronic Equipment Manufacturers
+248,45203015,4,452030,3,Electronic Components
+249,45203020,4,452030,3,Electronic Manufacturing Services
+250,45203030,4,452030,3,Technology Distributors
+251,45204010,4,452040,3,Office Electronics
+252,45205010,4,452050,3,Semiconductor Equipment -- Discontinued effective 04/30/2003.
+253,45205020,4,452050,3,Semiconductors -- Discontinued effective 04/30/2003.
+254,45301010,4,453010,3,Semiconductor Equipment
+255,45301020,4,453010,3,Semiconductors
+256,50101010,4,501010,3,Alternative Carriers
+257,50101020,4,501010,3,Integrated Telecommunication Services
+258,50102010,4,501020,3,Wireless Telecommunication Services
+259,55101010,4,551010,3,Electric Utilities
+260,55102010,4,551020,3,Gas Utilities
+261,55103010,4,551030,3,Multi-Utilities
+262,55104010,4,551040,3,Water Utilities
+263,55105010,4,551050,3,Independent Power Producers & Energy Traders
+264,55105020,4,551050,3,Renewable Electricity
+265,60101010,4,601010,3,Diversified REITs
+266,60101020,4,601010,3,Industrial REITs
+267,60101030,4,601010,3,Hotel & Resort REITs
+268,60101040,4,601010,3,Office REITs
+269,60101050,4,601010,3,Health Care REITs
+270,60101060,4,601010,3,Residential REITs
+271,60101070,4,601010,3,Retail REITs
+272,60101080,4,601010,3,Specialized REITs
+273,60102010,4,601020,3,Diversified Real Estate Activities
+274,60102020,4,601020,3,Real Estate Operating Companies
+275,60102030,4,601020,3,Real Estate Development
+276,60102040,4,601020,3,Real Estate Services
+277,60,1,0,0,Real Estate
+278,50201010,4,502010,3,Advertising
+279,50201020,4,502010,3,Broadcasting
+280,50201030,4,502010,3,Cable & Satellite
+281,50201040,4,502010,3,Publishing
+282,50202010,4,502020,3,Movies & Entertainment
+283,50202020,4,502020,3,Interactive Home Entertainment
+284,50203010,4,502030,3,Interactive Media & Services
+285,45202030,4,452020,3,"Technology Hardware, Storage & Peripherals"
+286,45102030,4,451020,3,Internet Services & Infrastructure
+287,5020,2,50,1,Media & Entertainment
+288,6010,2,60,1,Real Estate
+289,40203040,4,402030,3,Financial Exchanges & Data
+290,40204010,4,402040,3,Mortgage REITs
+291,202020,3,2020,2,Professional Services
+292,15104025,4,151040,3,Copper
+293,20106015,4,201060,3,Agricultural & Farm Machinery
+294,15104045,4,151040,3,Silver
+295,502010,3,5020,2,Media
+296,502020,3,5020,2,Entertainment
+297,502030,3,5020,2,Interactive Media & Services
+298,20201070,4,202010,3,Diversified Support Services
+299,20201080,4,202010,3,Security & Alarm Services
+300,20202020,4,202020,3,Research & Consulting Services
+301,351030,3,3510,2,Health Care Technology
+302,601010,3,6010,2,Equity Real Estate Investment Trusts (REITs)
+303,601020,3,6010,2,Real Estate Management & Development
+304,402040,3,4020,2,Mortgage Real Estate Investment Trusts (REITs)
