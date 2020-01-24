@@ -1,0 +1,18 @@
+Offline Process:
+
+1 . Image_forgery_detection : To detect forge image .Folder contain runtest file which detects fake or real image coming frm specific path.
+Inside Model folder contain Image fogery model.
+
+2.trainingdocumenttypes :  Folder contain trained files( i.e labelmap.pbtxt and frozen graph which is the output of trained models) to detect document types types(i.e.Aadhar Card,PAN Card,Passport) which is used in document_type_single.py or document_type.py.
+
+3.training2 : Folder contain trained files( i.e labelmap.pbtxt and frozen graph which is the output of trained models) to detect Aadhar card types(i.e. type-1,type-2,type-3,type-4) which is used in aadhar_type.py.
+
+4.PickFileForProcess.py : set crontab for picking file using isprocessed file  = "0"
+
+5.scripts : folder contain all accuracy/OCR related python scripts.
+
+6.rintegration.py : file which calls all related function/methods for accuracy scripts
+
+7.create_images1.py : file which extract images and do image process
+
+

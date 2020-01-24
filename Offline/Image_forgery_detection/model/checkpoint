@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/pavan/Unipruf/o/Anomoly-detection/object_detection1/object_detection/Image_forgery_detection/model/Image-Forgery-CNN.model"
+all_model_checkpoint_paths: "/home/pavan/Unipruf/o/Anomoly-detection/object_detection1/object_detection/Image_forgery_detection/model/Image-Forgery-CNN.model"
