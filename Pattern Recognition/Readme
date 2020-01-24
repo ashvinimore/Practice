@@ -1,0 +1,21 @@
+Pattern Recognition
+	* Used "Tensorflow-for-poets-2" model which is a pre-trained model provided by google.
+	* git clone https://github.com/googlecodelabs/tensorflow-for-poets-2
+	* Retrained the model using pattern images
+		* Store all the images in "tf_files/images" directory with folder name as image label
+		* pip3 install --upgrade "tensorflow==1.7.*"	
+		* Run inside terminal(Before running retrain.py command)
+			IMAGE_SIZE=224
+			ARCHITECTURE="mobilenet_0.50_${IMAGE_SIZE}"
+		* python3 -m scripts.retrain \
+		  --bottleneck_dir=tf_files/bottlenecks \
+		  --model_dir=tf_files/models/ \
+		  --summaries_dir=tf_files/training_summaries/"${ARCHITECTURE}" \
+		  --output_graph=tf_files/retrained_graph.pb \
+		  --output_labels=tf_files/retrained_labels.txt \
+		  --architecture="${ARCHITECTURE}" \
+		  --image_dir=tf_files/images
+	* Testing image
+		* Run 	python3 -m scripts.label_image \
+			    --graph=tf_files/retrained_graph.pb  \
+			    --image=tf_files/test_img_DIR/test1.jpeg
